@@ -1,0 +1,515 @@
+{
+  "methodology": {
+    "description": "Individual capability comparison using final (most specific) capabilities from weak paths",
+    "approach": "Uses the leaf-level capabilities for granular weakness profile agreement analysis",
+    "dove_capability_details": [
+      {
+        "path_id": "root.9.0.1",
+        "final_capability": "Performing advanced mathematical and quantitative reasoning",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Conducting comprehensive quantitative reasoning and analysis",
+          "Performing advanced mathematical and quantitative reasoning"
+        ],
+        "path_depth": 4,
+        "size": 54,
+        "mean_score": 0.29182407407407407
+      },
+      {
+        "path_id": "root.7.0.0",
+        "final_capability": "Analyzing and evaluating logical, mathematical, and linguistic structures and...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Analyzing and evaluating logical, mathematical, and linguistic structures and relationships across various domains"
+        ],
+        "path_depth": 4,
+        "size": 122,
+        "mean_score": 0.3613893442622951
+      },
+      {
+        "path_id": "root.9.1.0",
+        "final_capability": "Applying mathematical reasoning and problem-solving techniques",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Applying mathematical reasoning and problem-solving techniques"
+        ],
+        "path_depth": 4,
+        "size": 121,
+        "mean_score": 0.3651735537190083
+      },
+      {
+        "path_id": "root.9.1.1",
+        "final_capability": "Analyzing and applying mathematical and algebraic principles and structures",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Analyzing and applying mathematical and algebraic principles and structures"
+        ],
+        "path_depth": 4,
+        "size": 214,
+        "mean_score": 0.36682242990654207
+      },
+      {
+        "path_id": "root.9.0.0",
+        "final_capability": "Performing quantitative analysis and numerical reasoning",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Conducting comprehensive quantitative reasoning and analysis",
+          "Performing quantitative analysis and numerical reasoning"
+        ],
+        "path_depth": 4,
+        "size": 55,
+        "mean_score": 0.4147090909090909
+      },
+      {
+        "path_id": "root.6.6.0",
+        "final_capability": "Analyzing and synthesizing electrical systems and principles",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex scientific principles and systems across various domains",
+          "Analyzing and synthesizing electromagnetic and electrical principles",
+          "Analyzing and synthesizing electrical systems and principles"
+        ],
+        "path_depth": 4,
+        "size": 51,
+        "mean_score": 0.44872549019607844
+      },
+      {
+        "path_id": "root.7.0.2",
+        "final_capability": "Evaluating and analyzing complex information for validity and logical consist...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Evaluating and analyzing complex information for validity and logical consistency"
+        ],
+        "path_depth": 4,
+        "size": 51,
+        "mean_score": 0.4790980392156863
+      }
+    ],
+    "ranking_capability_details": [
+      {
+        "path_id": "root.7.0.0",
+        "final_capability": "Analyzing and evaluating logical, mathematical, and linguistic structures and...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Analyzing and evaluating logical, mathematical, and linguistic structures and relationships across various domains"
+        ],
+        "path_depth": 4,
+        "size": 122,
+        "mean_score": 0.5103734439834025
+      },
+      {
+        "path_id": "root.9.1.1",
+        "final_capability": "Analyzing and applying mathematical and algebraic principles and structures",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Analyzing and applying mathematical and algebraic principles and structures"
+        ],
+        "path_depth": 4,
+        "size": 214,
+        "mean_score": 0.5743243243243243
+      },
+      {
+        "path_id": "root.7.0.2",
+        "final_capability": "Evaluating and analyzing complex information for validity and logical consist...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Evaluating and analyzing complex information for validity and logical consistency"
+        ],
+        "path_depth": 4,
+        "size": 51,
+        "mean_score": 0.6116504854368932
+      },
+      {
+        "path_id": "root.9.1.0.0",
+        "final_capability": "Utilizing mathematical reasoning to solve complex problems",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Applying mathematical reasoning and problem-solving techniques",
+          "Utilizing mathematical reasoning to solve complex problems"
+        ],
+        "path_depth": 5,
+        "size": 79,
+        "mean_score": 0.6121212121212121
+      },
+      {
+        "path_id": "root.6.6.0",
+        "final_capability": "Analyzing and synthesizing electrical systems and principles",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex scientific principles and systems across various domains",
+          "Analyzing and synthesizing electromagnetic and electrical principles",
+          "Analyzing and synthesizing electrical systems and principles"
+        ],
+        "path_depth": 4,
+        "size": 51,
+        "mean_score": 0.6626506024096386
+      },
+      {
+        "path_id": "root.0.0.2.0",
+        "final_capability": "Analyzing and evaluating security systems and measures for vulnerabilities an...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex and diverse information and systems across contexts and domains for strategic insights and optimization",
+          "Analyzing and synthesizing complex systems and information for strategic evaluation and optimization across diverse contexts",
+          "Analyzing and evaluating systems for security, compatibility, and vulnerabilities",
+          "Analyzing and evaluating security systems and measures for vulnerabilities and implications"
+        ],
+        "path_depth": 5,
+        "size": 55,
+        "mean_score": 0.6842105263157895
+      },
+      {
+        "path_id": "root.7.0.1.0",
+        "final_capability": "Analyzing and evaluating logical fallacies and reasoning in arguments",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Analyzing and evaluating complex arguments and reasoning",
+          "Analyzing and evaluating logical fallacies and reasoning in arguments"
+        ],
+        "path_depth": 5,
+        "size": 73,
+        "mean_score": 0.6949152542372882
+      },
+      {
+        "path_id": "root.7.1.0",
+        "final_capability": "Analyzing and synthesizing philosophical arguments and theories on ethics, ju...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and synthesizing philosophical and theoretical concepts and arguments",
+          "Analyzing and synthesizing philosophical arguments and theories on ethics, justice, and human rights to evaluate principles and perspectives"
+        ],
+        "path_depth": 4,
+        "size": 80,
+        "mean_score": 0.7007575757575758
+      }
+    ]
+  },
+  "individual_capability_analysis": {
+    "all_capabilities_found": [
+      "Analyzing and applying mathematical and algebraic principles and structures",
+      "Analyzing and evaluating logical fallacies and reasoning in arguments",
+      "Analyzing and evaluating logical, mathematical, and linguistic structures and...",
+      "Analyzing and evaluating security systems and measures for vulnerabilities an...",
+      "Analyzing and synthesizing electrical systems and principles",
+      "Analyzing and synthesizing philosophical arguments and theories on ethics, ju...",
+      "Applying mathematical reasoning and problem-solving techniques",
+      "Evaluating and analyzing complex information for validity and logical consist...",
+      "Performing advanced mathematical and quantitative reasoning",
+      "Performing quantitative analysis and numerical reasoning",
+      "Utilizing mathematical reasoning to solve complex problems"
+    ],
+    "dove_detects": {
+      "Analyzing and applying mathematical and algebraic principles and structures": true,
+      "Analyzing and evaluating logical fallacies and reasoning in arguments": false,
+      "Analyzing and evaluating logical, mathematical, and linguistic structures and...": true,
+      "Analyzing and evaluating security systems and measures for vulnerabilities an...": false,
+      "Analyzing and synthesizing electrical systems and principles": true,
+      "Analyzing and synthesizing philosophical arguments and theories on ethics, ju...": false,
+      "Applying mathematical reasoning and problem-solving techniques": true,
+      "Evaluating and analyzing complex information for validity and logical consist...": true,
+      "Performing advanced mathematical and quantitative reasoning": true,
+      "Performing quantitative analysis and numerical reasoning": true,
+      "Utilizing mathematical reasoning to solve complex problems": false
+    },
+    "ranking_detects": {
+      "Analyzing and applying mathematical and algebraic principles and structures": true,
+      "Analyzing and evaluating logical fallacies and reasoning in arguments": true,
+      "Analyzing and evaluating logical, mathematical, and linguistic structures and...": true,
+      "Analyzing and evaluating security systems and measures for vulnerabilities an...": true,
+      "Analyzing and synthesizing electrical systems and principles": true,
+      "Analyzing and synthesizing philosophical arguments and theories on ethics, ju...": true,
+      "Applying mathematical reasoning and problem-solving techniques": false,
+      "Evaluating and analyzing complex information for validity and logical consist...": true,
+      "Performing advanced mathematical and quantitative reasoning": false,
+      "Performing quantitative analysis and numerical reasoning": false,
+      "Utilizing mathematical reasoning to solve complex problems": true
+    },
+    "agreement_matrix": {
+      "Analyzing and applying mathematical and algebraic principles and structures": {
+        "dove_detects": true,
+        "ranking_detects": true,
+        "agreement": true,
+        "both_detect": true
+      },
+      "Analyzing and evaluating logical fallacies and reasoning in arguments": {
+        "dove_detects": false,
+        "ranking_detects": true,
+        "agreement": false,
+        "both_detect": false
+      },
+      "Analyzing and evaluating logical, mathematical, and linguistic structures and...": {
+        "dove_detects": true,
+        "ranking_detects": true,
+        "agreement": true,
+        "both_detect": true
+      },
+      "Analyzing and evaluating security systems and measures for vulnerabilities an...": {
+        "dove_detects": false,
+        "ranking_detects": true,
+        "agreement": false,
+        "both_detect": false
+      },
+      "Analyzing and synthesizing electrical systems and principles": {
+        "dove_detects": true,
+        "ranking_detects": true,
+        "agreement": true,
+        "both_detect": true
+      },
+      "Analyzing and synthesizing philosophical arguments and theories on ethics, ju...": {
+        "dove_detects": false,
+        "ranking_detects": true,
+        "agreement": false,
+        "both_detect": false
+      },
+      "Applying mathematical reasoning and problem-solving techniques": {
+        "dove_detects": true,
+        "ranking_detects": false,
+        "agreement": false,
+        "both_detect": false
+      },
+      "Evaluating and analyzing complex information for validity and logical consist...": {
+        "dove_detects": true,
+        "ranking_detects": true,
+        "agreement": true,
+        "both_detect": true
+      },
+      "Performing advanced mathematical and quantitative reasoning": {
+        "dove_detects": true,
+        "ranking_detects": false,
+        "agreement": false,
+        "both_detect": false
+      },
+      "Performing quantitative analysis and numerical reasoning": {
+        "dove_detects": true,
+        "ranking_detects": false,
+        "agreement": false,
+        "both_detect": false
+      },
+      "Utilizing mathematical reasoning to solve complex problems": {
+        "dove_detects": false,
+        "ranking_detects": true,
+        "agreement": false,
+        "both_detect": false
+      }
+    },
+    "summary_stats": {
+      "total_capabilities": 11,
+      "agreements": 4,
+      "agreement_rate": 0.36363636363636365,
+      "both_detect": 4,
+      "dove_only": 3,
+      "ranking_only": 4,
+      "neither_detects": 0
+    }
+  },
+  "detailed_weak_paths": {
+    "dove_ranking": [
+      {
+        "final_capability": "Performing advanced mathematical and quantitative reasoning",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Conducting comprehensive quantitative reasoning and analysis",
+          "Performing advanced mathematical and quantitative reasoning"
+        ],
+        "path_id": "root.9.0.1",
+        "size": 54,
+        "mean_score": 0.29182407407407407
+      },
+      {
+        "final_capability": "Analyzing and evaluating logical, mathematical, and linguistic structures and...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Analyzing and evaluating logical, mathematical, and linguistic structures and relationships across various domains"
+        ],
+        "path_id": "root.7.0.0",
+        "size": 122,
+        "mean_score": 0.3613893442622951
+      },
+      {
+        "final_capability": "Applying mathematical reasoning and problem-solving techniques",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Applying mathematical reasoning and problem-solving techniques"
+        ],
+        "path_id": "root.9.1.0",
+        "size": 121,
+        "mean_score": 0.3651735537190083
+      },
+      {
+        "final_capability": "Analyzing and applying mathematical and algebraic principles and structures",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Analyzing and applying mathematical and algebraic principles and structures"
+        ],
+        "path_id": "root.9.1.1",
+        "size": 214,
+        "mean_score": 0.36682242990654207
+      },
+      {
+        "final_capability": "Performing quantitative analysis and numerical reasoning",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Conducting comprehensive quantitative reasoning and analysis",
+          "Performing quantitative analysis and numerical reasoning"
+        ],
+        "path_id": "root.9.0.0",
+        "size": 55,
+        "mean_score": 0.4147090909090909
+      },
+      {
+        "final_capability": "Analyzing and synthesizing electrical systems and principles",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex scientific principles and systems across various domains",
+          "Analyzing and synthesizing electromagnetic and electrical principles",
+          "Analyzing and synthesizing electrical systems and principles"
+        ],
+        "path_id": "root.6.6.0",
+        "size": 51,
+        "mean_score": 0.44872549019607844
+      },
+      {
+        "final_capability": "Evaluating and analyzing complex information for validity and logical consist...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Evaluating and analyzing complex information for validity and logical consistency"
+        ],
+        "path_id": "root.7.0.2",
+        "size": 51,
+        "mean_score": 0.4790980392156863
+      }
+    ],
+    "original_ranking": [
+      {
+        "final_capability": "Analyzing and evaluating logical, mathematical, and linguistic structures and...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Analyzing and evaluating logical, mathematical, and linguistic structures and relationships across various domains"
+        ],
+        "path_id": "root.7.0.0",
+        "size": 122,
+        "mean_score": 0.5103734439834025
+      },
+      {
+        "final_capability": "Analyzing and applying mathematical and algebraic principles and structures",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Analyzing and applying mathematical and algebraic principles and structures"
+        ],
+        "path_id": "root.9.1.1",
+        "size": 214,
+        "mean_score": 0.5743243243243243
+      },
+      {
+        "final_capability": "Evaluating and analyzing complex information for validity and logical consist...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Evaluating and analyzing complex information for validity and logical consistency"
+        ],
+        "path_id": "root.7.0.2",
+        "size": 51,
+        "mean_score": 0.6116504854368932
+      },
+      {
+        "final_capability": "Utilizing mathematical reasoning to solve complex problems",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Developing quantitative reasoning and analytical problem-solving skills",
+          "Utilizing mathematical reasoning and problem-solving principles",
+          "Applying mathematical reasoning and problem-solving techniques",
+          "Utilizing mathematical reasoning to solve complex problems"
+        ],
+        "path_id": "root.9.1.0.0",
+        "size": 79,
+        "mean_score": 0.6121212121212121
+      },
+      {
+        "final_capability": "Analyzing and synthesizing electrical systems and principles",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex scientific principles and systems across various domains",
+          "Analyzing and synthesizing electromagnetic and electrical principles",
+          "Analyzing and synthesizing electrical systems and principles"
+        ],
+        "path_id": "root.6.6.0",
+        "size": 51,
+        "mean_score": 0.6626506024096386
+      },
+      {
+        "final_capability": "Analyzing and evaluating security systems and measures for vulnerabilities an...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex and diverse information and systems across contexts and domains for strategic insights and optimization",
+          "Analyzing and synthesizing complex systems and information for strategic evaluation and optimization across diverse contexts",
+          "Analyzing and evaluating systems for security, compatibility, and vulnerabilities",
+          "Analyzing and evaluating security systems and measures for vulnerabilities and implications"
+        ],
+        "path_id": "root.0.0.2.0",
+        "size": 55,
+        "mean_score": 0.6842105263157895
+      },
+      {
+        "final_capability": "Analyzing and evaluating logical fallacies and reasoning in arguments",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and evaluating complex logical and informational structures",
+          "Analyzing and evaluating complex arguments and reasoning",
+          "Analyzing and evaluating logical fallacies and reasoning in arguments"
+        ],
+        "path_id": "root.7.0.1.0",
+        "size": 73,
+        "mean_score": 0.6949152542372882
+      },
+      {
+        "final_capability": "Analyzing and synthesizing philosophical arguments and theories on ethics, ju...",
+        "full_capability_path": [
+          "Analyzing and synthesizing complex and diverse information across various domains for informed decision-making and strategic insights",
+          "Analyzing and synthesizing complex concepts and structures",
+          "Analyzing and synthesizing philosophical and theoretical concepts and arguments",
+          "Analyzing and synthesizing philosophical arguments and theories on ethics, justice, and human rights to evaluate principles and perspectives"
+        ],
+        "path_id": "root.7.1.0",
+        "size": 80,
+        "mean_score": 0.7007575757575758
+      }
+    ]
+  }
+}
