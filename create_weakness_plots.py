@@ -91,7 +91,7 @@ def plot_dove_weakness_ranking(dove_ranking):
     ax.set_yticklabels([f"{i+1}. {cap[:50]}{'...' if len(cap) > 50 else ''}" 
                        for i, cap in enumerate(capabilities)], fontsize=10)
     ax.set_xlabel('Dove Score (Mean)', fontsize=12, fontweight='bold')
-    ax.set_title('Top 15 Weakest Capabilities by Dove Score\n(Lower Score = Weaker Performance)', 
+    ax.set_title('Top 7 Weakest Capabilities by Dove Score\n(Lower Score = Weaker Performance)',
                 fontsize=14, fontweight='bold', pad=20)
     
     # Add score labels on bars
