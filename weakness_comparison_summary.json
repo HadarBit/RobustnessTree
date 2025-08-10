@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "total_unique_capabilities": 11,
+    "agreement_rate": 0.36363636363636365,
+    "dove_detections": 7,
+    "ranking_detections": 8,
+    "both_agree": 4,
+    "dove_only": 3,
+    "ranking_only": 4
+  },
+  "thresholds": {
+    "dove_global_threshold": 0.5740801906779661,
+    "ranking_global_threshold": 0.7063096425010682
+  }
+}
