@@ -185,7 +185,7 @@ def create_weakness_comparison_csv():
     for cap in sorted(ranking_only):
         ranking_info = ranking_capability_info[cap]
         csv_data.append([
-            'Ranking Only', cap, '🔵 Ranking Only',
+            'EvalTree Only', cap, '🔵 EvalTree Only',
             'N/A', 'N/A', 'N/A', 'N/A',
             f"{ranking_info['mean_score']:.3f}", ranking_info['size'], f"{ranking_info['threshold_diff']:.3f}", ranking_info['path_id'],
             ' | '.join(ranking_info['full_capability_path'])
@@ -281,7 +281,7 @@ def create_weakness_comparison_plot():
     pie_data = [len(both_weak), len(dove_only), len(ranking_only)]
     pie_labels = [f'Both Agree\n({len(both_weak)})', 
                  f'Dove Only\n({len(dove_only)})', 
-                 f'Ranking Only\n({len(ranking_only)})']
+                 f'EvalTree Only\n({len(ranking_only)})']
     
     wedges, texts, autotexts = ax2.pie(pie_data, labels=pie_labels, colors=colors, 
                                       autopct='%1.1f%%', startangle=90)
@@ -321,7 +321,7 @@ def create_weakness_comparison_plot():
     for i, cap in enumerate(sorted(dove_only), 1):
         print(f"  {i}. {cap}")
     
-    print(f"\n🔵 REGULAR RANKING ONLY ({len(ranking_only)} capabilities):")
+    print(f"\n🔵 EVALTREE RANKING ONLY ({len(ranking_only)} capabilities):")
     for i, cap in enumerate(sorted(ranking_only), 1):
         print(f"  {i}. {cap}")
 
