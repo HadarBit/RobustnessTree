@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "model_name": "Llama-3.1-8B-Instruct",
+    "extraction_params": {
+      "alpha": 0.05,
+      "threshold": 0.6,
+      "direction": "lower",
+      "min_size_parent": 20,
+      "min_size_child": 5
+    },
+    "generation_timestamp": 1754514405.8508565,
+    "num_questions_per_weakness": 2
+  },
+  "weakness_questions": [
+    {
+      "weakness_id": 0,
+      "capability": "Analyzing and evaluating logical and mathematical principles for consistency and application across various domains",
+      "original_size": 24,
+      "original_accuracy": 0.20833333333333334,
+      "original_dove_avg": 0.24220833333333333,
+      "subjects": [
+        "college_computer_science",
+        "college_mathematics",
+        "abstract_algebra",
+        "high_school_physics",
+        "formal_logic",
+        "econometrics",
+        "high_school_computer_science",
+        "machine_learning",
+        "high_school_statistics"
+      ],
+      "example_questions": [
+        "Statement 1 | Every permutation is a one-to-one function. Statement 2 | Every function is a permutation if and only if it is one to one.\n\nA. True, True\nB. False, False\nC. True, False\nD. False, True",
+        "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n(T \u00b7 ~U) \u2283 ~W\n~W \u2283 X\n~Z \u2283 W\n~(X \u00b7 Z) / T \u2283 U\n\nA. Valid\nB. Invalid. Counterexample when T, X, and Z are true and U and W are false\nC. Invalid. Counterexample when T and X  ...",
+        "Statement 1 | If A is connected, the closure of A must be connected. Statement 2 | Every continuous function f : (0, 1) \u2192 (0, 1) has a fixed point.\n\nA. True, True\nB. True, False\nC. False, True\nD. False, False"
+      ],
+      "generated_questions": [
+        {
+          "question_id": 0,
+          "question_text": "Consider the following two statements regarding the properties of geometric figures:\n\nStatement 1: A triangle is similar to another triangle if and only if their corresponding angles are equal.\n\nStatement 2: A rectangle is a special case of a parallelogram, which means all rectangles are parallelograms.\n\nWhich of the following options correctly evaluates both statements?\n\nA. True, True  \nB. False, True  \nC. True, False  \nD. False, False",
+          "generated_successfully": true
+        },
+        {
+          "question_id": 1,
+          "question_text": "Consider the following statements about sets and their properties:  \n\nStatement 1 | The intersection of two finite sets is always finite.  \nStatement 2 | If a set is both countably infinite and uncountably infinite, then it must be empty.  \n\nWhich of the following options is correct?  \n\nA. True, True  \nB. False, False  \nC. True, False  \nD. False, True",
+          "generated_successfully": true
+        }
+      ]
+    },
+    {
+      "weakness_id": 1,
+      "capability": "Analyzing and manipulating polynomial expressions and structures in algebraic contexts",
+      "original_size": 21,
+      "original_accuracy": 0.3333333333333333,
+      "original_dove_avg": 0.3207857142857143,
+      "subjects": [
+        "abstract_algebra",
+        "high_school_mathematics",
+        "college_computer_science",
+        "econometrics"
+      ],
+      "example_questions": [
+        "Find the degree for the given field extension Q(sqrt(2)) over Q.\n\nA. 0\nB. 2\nC. 1\nD. 3",
+        "Find the degree for the given field extension Q(sqrt(2), sqrt(3), sqrt(18)) over Q.\n\nA. 0\nB. 4\nC. 2\nD. 6",
+        "Determine whether the polynomial in Z[x] satisfies an Eisenstein criterion for irreducibility over Q. x^2 - 12\n\nA. Yes, with p=2.\nB. Yes, with p=3.\nC. Yes, with p=5.\nD. No."
+      ],
+      "generated_questions": [
+        {
+          "question_id": 0,
+          "question_text": "What is the remainder when the polynomial \\( 3x^4 - 5x^3 + 2x^2 - 7x + 4 \\) is divided by \\( x - 2 \\)?",
+          "generated_successfully": true
+        },
+        {
+          "question_id": 1,
+          "question_text": "Evaluate the polynomial \\( P(x) = 3x^4 - 5x^3 + 2x^2 + 7 \\) at \\( x = 2 \\) and provide the result.",
+          "generated_successfully": true
+        }
+      ]
+    }
+  ]
+}
