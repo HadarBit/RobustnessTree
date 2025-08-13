@@ -41,7 +41,7 @@ It is designed to work alongside the **EvalTree** framework, replacing accuracy-
 - **`data/`**  
   Contains the **trees** and **tables** used in analysis, including input data for processing and evaluation.
 
-  - **`Question Generation/`**  
-  Scripts for generating and evaluating **new questions** based on the generated weakness profile.
+- **`Question Generation/`**  
+Scripts for generating and evaluating **new questions** based on the generated weakness profile.
 
 ---
