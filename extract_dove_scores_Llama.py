@@ -17,10 +17,10 @@ class DOVEBatchProcessor:
     Uses intermediate files to accumulate scores
     """
 
-    def __init__(self, data_directory="olmoe_mmlu_data", batch_size=4):
+    def __init__(self, data_directory="llama_mmlu_data", batch_size=4):
         self.data_directory = Path(data_directory)
         self.batch_size = batch_size
-        self.model_name = "OLMoE-1B-7B-0924-Instruct"
+        self.model_name = "Llama-8.1B-Instruct"
         self.shots = [0, 5]
 
         # Intermediate file to store accumulated scores
