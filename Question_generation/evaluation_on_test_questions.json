@@ -1,0 +1,136 @@
+{
+  "model": "meta-llama/Llama-3-8b-chat-hf",
+  "total_questions": 14,
+  "correct_answers": 8,
+  "accuracy": 0.5714285714285714,
+  "success_vector": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1
+  ],
+  "detailed_results": [
+    {
+      "question_number": 1,
+      "question": "A population of rabbits grows according to the logistic model, described by the differential equation dP/dt = rP(1 - P/K), where P is the population size, r is the intrinsic growth rate, and K is the carrying capacity. If a population starts at 200 rabbits, with a carrying capacity of 1000 and a growth rate of 0.1, what will be the population size after 10 time units, assuming continuous growth?\n\nA. 527 rabbits\nB. 481 rabbits\nC. 600 rabbits\nD. 350 rabbits",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 2,
+      "question": "A certain company finds that the production cost \\( C \\) (in dollars) of \\( x \\) units of a new product can be modeled by the function \\( C(x) = 50x + 2000/x \\), where \\( x \\) is a positive integer. To minimize production costs, the company wants to find the number of units \\( x \\) that should be produced. What is the number of units that minimizes the production cost?\n\nA. 10\nB. 20\nC. 30\nD. 40",
+      "correct_answer": "B",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 0
+    },
+    {
+      "question_number": 3,
+      "question": "Consider the following logical statement: \"If all roses are flowers and some flowers fade quickly, then it must be true that at least some roses fade quickly.\" Which of the following options reflects a correct evaluation of the validity of this argument, taking into account the principles of formal logic and implications?\n\nA. The argument is valid; if all members of a subset share a property with a larger set, then at least one member of that subset must also share the property.\nB. The argument is invalid; the premise only establishes that some flowers fade quickly without any implication about roses specifically.\nC. The argument is sound; the conclusion logically follows from the premises provided that all flowers are assumed to have similar properties.\nD. The argument is valid, but unsound; while the conclusion follows logically from the premises, the premises may not be true in reality.",
+      "correct_answer": "A",
+      "model_raw_output": "D",
+      "parsed_answer": "D",
+      "success": 0
+    },
+    {
+      "question_number": 4,
+      "question": "In the context of propositional logic, consider the following statements: 1. If it rains, then the ground is wet. 2. The ground is not wet. 3. Therefore, it does not rain. Which of the following best describes the logical structure of the argument presented above?\n\nA. The argument is valid because it follows the form of modus tollens.\nB. The argument is invalid due to the fallacy of affirming the consequent.\nC. The argument is valid because it employs disjunctive syllogism.\nD. The argument is invalid because it does not consider alternative causes for the ground being dry.",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 5,
+      "question": "A festival is held annually, where the total number of attendees can be modeled by the function \\( T(n) = 1000 + 200n - 10n^2 \\), where \\( n \\) is the number of years since the first festival. Determine the year when the number of attendees will reach its maximum. What is the maximum number of attendees, rounded to the nearest whole number?\n\nA. 1200\nB. 1500\nC. 1700\nD. 2000",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 6,
+      "question": "A cylindrical tank with a radius of 3 meters and a height of 5 meters is filled with water. If 20% of the tank's volume is removed, how many liters of water remain in the tank? (Note: 1 cubic meter = 1000 liters)\n\nA. 600 liters\nB. 720 liters\nC. 800 liters\nD. 900 liters",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 7,
+      "question": "Consider the function \\( f(x) = x^3 - 6x^2 + 9x + 1 \\). Which of the following statements about the critical points of \\( f(x) \\) is true?\n\nA. The function has a local maximum at \\( x = 3 \\) and no local minimums.\nB. The function has two local minimums and one local maximum, occurring at \\( x = 1 \\) and \\( x = 3 \\), respectively.\nC. The function has one local minimum at \\( x = 1 \\) and one local maximum at \\( x = 3 \\).\nD. The function has no critical points.",
+      "correct_answer": "C",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 8,
+      "question": "A function \\( f(x) \\) is defined as \\( f(x) = ax^3 + bx^2 + cx + d \\), where \\( a, b, c, \\) and \\( d \\) are real coefficients. It is known that \\( f(1) = 0 \\) and \\( f(-1) = 2 \\). If the derivative \\( f'(x) \\) has a double root at \\( x = 1 \\), which of the following statements about the coefficients \\( a, b, c, \\) and \\( d \\) must be true?\n\nA. \\( d = -a - b - c \\)\nB. \\( a + b + c + d = 2 \\)\nC. \\( b - 3a = 0 \\)\nD. \\( c = 2a + b \\)",
+      "correct_answer": "B",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 9,
+      "question": "A company\u2019s revenue can be modeled by the function R(x) = 500x - 0.5x^2, where R is the revenue in dollars and x is the number of units sold. The cost of producing x units is given by the function C(x) = 300 + 40x. To maximize profit, how many units should the company sell?\n\nA. 200 units\nB. 300 units\nC. 400 units\nD. 500 units",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 10,
+      "question": "A researcher is analyzing the effect of a new drug on blood pressure levels. In a clinical trial involving 200 participants, half were given the drug while the other half received a placebo. After 12 weeks, the mean reduction in systolic blood pressure for the drug group was found to be 12 mmHg with a standard deviation of 5 mmHg, while the placebo group showed a mean change of 2 mmHg with a standard deviation of 3 mmHg. If the researcher aims to determine whether the drug's effect is statistically significant, what is the minimum sample size needed for a power of 0.80 and a significance level of 0.05, assuming the effect size is calculated using Cohen's d?\n\nA. 104 participants per group\nB. 60 participants per group\nC. 88 participants per group\nD. 72 participants per group",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 11,
+      "question": "In a three-phase electrical system with balanced loads, the line-to-line voltage is measured to be 400 V. If the loads are purely resistive, what is the line-to-neutral voltage, and how would the power factor of this system be affected if a capacitive load were introduced, shifting the phase angle to 30 degrees?\n\nA. 230 V, power factor remains at unity\nB. 230 V, power factor decreases to 0.866\nC. 400 V, power factor remains at unity\nD. 400 V, power factor increases to 0.866",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 12,
+      "question": "In a single-phase AC circuit, a resistive load of 20 ohms is connected in series with an inductive reactance of 30 ohms. If the supply voltage is 240V RMS, what is the true power consumed by the circuit?\n\nA. 1200 W\nB. 1920 W\nC. 800 W\nD. 960 W",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 13,
+      "question": "In a study assessing the impact of socioeconomic status on educational outcomes, researchers found that students from low-income families had significantly lower test scores compared to their higher-income peers. However, upon further examination, it was revealed that when controlling for parental education level, the disparity in test scores diminished. Which of the following conclusions can be drawn from this analysis?\n\nA. Socioeconomic status is the sole determinant of educational outcomes, independent of parental influence.\nB. Parental education level may mediate the relationship between socioeconomic status and educational achievement.\nC. Test scores are inherently biased against students from low-income families, regardless of other factors.\nD. The observed disparity in test scores is entirely attributable to differences in school funding across socioeconomic groups.",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 14,
+      "question": "In a study examining the correlation between socioeconomic status (SES) and academic achievement, researchers found that while there was a significant positive correlation, the effect of parenting style was not accounted for. They later adjusted for parenting style and found that the correlation weakened substantially, suggesting that parenting style may mediate the relationship between SES and academic achievement. Which of the following conclusions can be drawn from this analysis?\n\nA. Parenting style has no impact on the academic achievement of children from different SES backgrounds.\nB. The initial correlation between SES and academic achievement indicates a direct causal relationship.\nC. The relationship between SES and academic achievement is influenced by parenting style, indicating that interventions focusing on parenting may improve academic outcomes.\nD. SES is the sole determinant of academic achievement regardless of other factors such as parenting style.",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    }
+  ]
+}
