@@ -1,0 +1,640 @@
+{
+  "model": "meta-llama/Llama-3-8b-chat-hf",
+  "total_questions": 70,
+  "correct_answers": 29,
+  "accuracy": 0.4142857142857143,
+  "success_vector": [
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    1,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    1
+  ],
+  "detailed_results": [
+    {
+      "question_number": 1,
+      "question": "A company produces two types of gadgets, A and B. The production cost for gadget A is $15 per unit, while for gadget B, it is $25 per unit. The company has a budget of $3000 for production and aims to manufacture a total of 120 units of both gadgets. If the company wants to maximize the production of gadget A while adhering to the cost and quantity constraints, how many units of gadget A should it produce?\n\nA. 60 units\nB. 75 units\nC. 90 units\nD. 100 units",
+      "correct_answer": "C",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 2,
+      "question": "A circular garden has a radius of 10 meters. A path of uniform width, \\(x\\) meters, is built around the garden. If the area of the path is equal to the area of the garden, what is the width \\(x\\) of the path?\n\nA. 5 meters\nB. 7.5 meters\nC. 10 meters\nD. 2.5 meters",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 3,
+      "question": "A spherical tank has a diameter of 12 meters. It is filled with water to a height of 7 meters. If the tank is emptied at a rate of 5 cubic meters per hour, how many hours will it take to empty the tank to a height of 3 meters?\n\nA. 3 hours\nB. 5 hours\nC. 4 hours\nD. 2 hours",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    },
+    {
+      "question_number": 4,
+      "question": "A cylindrical tank has a height of 10 meters and a radius of 3 meters. It is filled with water to a height of 7 meters. If the tank leaks water at a rate of 1.5 cubic meters per hour, how many hours will it take for the water level to reach a height of 3 meters, assuming the leakage rate remains constant and there is no additional water input?\n\nA. 4 hours\nB. 5 hours\nC. 6 hours\nD. 7 hours",
+      "correct_answer": "B",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 5,
+      "question": "A cylindrical tank with a radius of 3 meters and a height of 5 meters is filled with water. The tank is then tilted at an angle of 30 degrees from the horizontal. Assuming the water remains at rest and the surface is level with respect to gravity, what is the height of the water at the highest point of the tank after it has been tilted?\n\nA. 5.0 meters\nB. 4.5 meters\nC. 3.0 meters\nD. 2.5 meters",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 6,
+      "question": "A rectangle has a length that is twice its width. If the area of the rectangle is equal to 288 square units, what is the perimeter of the rectangle in units?\n\nA. 72\nB. 48\nC. 60\nD. 96",
+      "correct_answer": "B",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 0
+    },
+    {
+      "question_number": 7,
+      "question": "A factory produces two types of widgets, Type X and Type Y. The production cost per unit for Type X is $5 and for Type Y is $8. If the factory produces a total of 300 widgets, with the constraint that the number of Type X widgets produced is twice that of Type Y widgets, what is the total production cost for the widgets?\n\nA. $1,200\nB. $1,500\nC. $1,800\nD. $2,000",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    },
+    {
+      "question_number": 8,
+      "question": "Consider a triangle ABC where angle A is twice the size of angle B, and angle C is the supplementary angle to angle A. If the length of side a (opposite angle A) is 10 units, calculate the length of side b (opposite angle B) using the Law of Sines. Which of the following is the correct length of side b?\n\nA. 5.00 units\nB. 7.50 units\nC. 8.66 units\nD. 9.00 units",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 9,
+      "question": "In a certain quadratic function defined by \\( f(x) = ax^2 + bx + c \\), the vertex form of the equation is given as \\( f(x) = k(x - h)^2 + m \\). If the vertex of the parabola is located at \\( (3, -5) \\) and the parabola opens upwards, what can be deduced about the value of \\( a \\) if \\( k \\) is equal to 2, and how does this influence the direction of the parabola?\n\nA. \\( a = 2 \\), indicating the parabola opens downwards.\nB. \\( a = 2 \\), indicating the parabola opens upwards.\nC. \\( a = -2 \\), indicating the parabola opens upwards.\nD. \\( a = -2 \\), indicating the parabola opens downwards.",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 10,
+      "question": "A company has two products, A and B. Product A sells for $50 and has a profit margin of 20%, while Product B sells for $80 with a profit margin of 30%. If the company sells 200 units of Product A and 150 units of Product B in a month, what is the total profit generated from both products combined?\n\nA. $8,000\nB. $9,000\nC. $9,500\nD. $10,000",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 11,
+      "question": "In a certain mathematical framework, a function \\( f(x) \\) is defined as follows: \\( f(x) = ax^2 + bx + c \\), where \\( a \\), \\( b \\), and \\( c \\) are constants and \\( a \\neq 0 \\). Suppose \\( f(x) \\) has two distinct real roots. If the sum of the roots is represented by \\( S \\) and the product by \\( P \\), which of the following statements about \\( S \\) and \\( P \\) is necessarily true?\n\nA. \\( S = -\\frac{b}{a} \\) and \\( P = \\frac{c}{a} \\) imply that \\( P > 0 \\) if \\( S > 0 \\).\nB. \\( S = -\\frac{b}{a} \\) and \\( P = \\frac{c}{a} \\) are both positive when \\( a > 0 \\).\nC. \\( S = -\\frac{b}{a} \\) guarantees that \\( P \\) can be negative when \\( a < 0 \\).\nD. \\( S \\) can be derived from the quadratic formula \\( S = \\sqrt{D} \\) where \\( D = b^2 - 4ac \\).",
+      "correct_answer": "B",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 12,
+      "question": "In a certain mathematical system, let \\( P(x) \\) represent an equation that is true if and only if \\( x \\) is a prime number. Given the expression \\( P(4) \\land \\neg P(6) \\lor P(7) \\), which of the following statements correctly evaluates the truth value of the entire expression?\n\nA. True, because \\( P(4) \\) is false and \\( P(7) \\) is true.\nB. False, because both \\( P(4) \\) and \\( P(6) \\) are false, making the entire expression false.\nC. True, because \\( P(4) \\) is false and \\( P(6) \\) is true, leading to a true disjunction with \\( P(7) \\).\nD. False, because \\( P(7) \\) being true does not influence the overall expression being a disjunction of false statements.",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 13,
+      "question": "In a certain logic puzzle, three friends\u2014Alice, Bob, and Charlie\u2014are sitting in a row. Alice is either to the left of Bob or to the right of him, but never in the middle. Charlie is seated such that he is not adjacent to Bob. If Alice is in position 1, which of the following statements must be true?\n\nA. Bob is in position 2, and Charlie is in position 3.\nB. Charlie is in position 2, and Bob is in position 3.\nC. Bob is in position 3, and Charlie is in position 2.\nD. Charlie is in position 1, and Bob is in position 2.",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 14,
+      "question": "In a certain logical framework, a statement is defined as \"valid\" if it can be proven true in all possible interpretations. Consider the following propositions: 1. If it rains, then the ground is wet. 2. The ground is not wet. 3. Therefore, it does not rain. Which of the following best describes the logical structure of the propositions and assesses the validity of the conclusion drawn from them?\n\nA. The argument is valid; the conclusion necessarily follows from the premises by modus tollens.\nB. The argument is invalid; the conclusion cannot be derived from the premises using any logical rules.\nC. The argument is valid; it demonstrates a form of disjunctive syllogism that leads to a true conclusion.\nD. The argument is invalid; the premises do not provide sufficient evidence to support the conclusion, as the ground could be wet for other reasons.",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 15,
+      "question": "In a certain mathematical system, the operation \\( \\star \\) is defined such that for any integers \\( a \\) and \\( b \\), \\( a \\star b = a^2 + b^2 - ab \\). If \\( x \\star y = 5 \\) and \\( y \\star z = 13 \\), which of the following statements must be true?\n\nA. \\( x + y + z = 8 \\)\nB. \\( x^2 + y^2 - xy = 5 \\)\nC. \\( y^2 + z^2 - yz = 13 \\)\nD. \\( x^2 + z^2 - xz = 9 \\)",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 16,
+      "question": "In a certain mathematical system, the \"star\" operation is defined as follows: for any two numbers \\( x \\) and \\( y \\), \\( x \\star y = xy + x - y \\). If \\( a \\star b = 30 \\) and \\( b \\star c = 50 \\), what is the value of \\( a \\star c \\) if \\( b = 5 \\)?\n\nA. 60\nB. 65\nC. 55\nD. 70",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 17,
+      "question": "In a theoretical model of a linear system, let \\( Ax = b \\) where \\( A \\) is a matrix representing the coefficients, \\( x \\) is the vector of variables, and \\( b \\) is the output vector. If the matrix \\( A \\) is transformed into its reduced row echelon form and it is found that there are two leading 1's in a system with three variables, which of the following statements about the solution set is true?\n\nA. The system has a unique solution for all variables.\nB. The system has infinitely many solutions, dependent on one free variable.\nC. The system has no solution, indicating an inconsistency.\nD. The system has exactly two solutions defined by the leading variables.",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 18,
+      "question": "A linguist is examining the syntactic structure of compound sentences. She identifies a sentence composed of two independent clauses joined by a coordinating conjunction. Which of the following sentences exemplifies this structure?\n\nA. Although it was raining, the picnic continued as planned.\nB. The sun set behind the mountains, and the sky turned a brilliant orange.\nC. Because she studied diligently, she passed the exam with flying colors.\nD. The car broke down, prompting an immediate call for roadside assistance.",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 19,
+      "question": "In a certain mathematical model, a function \\( f(x) \\) is defined as follows: \\[ f(x) = \\begin{cases} 2x + 3 & \\text{if } x < 0 \\\\ x^2 - 4 & \\text{if } 0 \\leq x < 2 \\\\ 3x - 5 & \\text{if } x \\geq 2 \\end{cases} \\] If we are to evaluate the limit of \\( f(x) \\) as \\( x \\) approaches 2 from the left, which of the following statements is true?\n\nA. The limit exists and is equal to -1.\nB. The limit does not exist because of a discontinuity at \\( x = 2 \\).\nC. The limit exists and is equal to 2.\nD. The limit exists and is equal to 3.",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    },
+    {
+      "question_number": 20,
+      "question": "In a certain logical framework, a statement is deemed valid if it follows the structure of a syllogism. Given the premises: \"All mammals are warm-blooded,\" and \"All dogs are mammals,\" which of the following conclusions is logically valid based on these premises?\n\nA. All warm-blooded creatures are dogs.\nB. Some mammals are not warm-blooded.\nC. All dogs are warm-blooded.\nD. No warm-blooded creatures are mammals.",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    },
+    {
+      "question_number": 21,
+      "question": "A rectangular garden has a length that is twice its width. If the area of the garden is 288 square meters, what is the perimeter of the garden in meters?\n\nA. 96\nB. 72\nC. 66\nD. 84",
+      "correct_answer": "B",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 0
+    },
+    {
+      "question_number": 22,
+      "question": "A cylindrical tank has a radius of 3 meters and a height of 4 meters. It is filled with water to a height of 2 meters. If the tank is tilted at an angle of 30 degrees from the vertical, what is the new height of the water at the highest point inside the tank after tilting? Assume the water remains level due to gravity.\n\nA. 2.5 meters\nB. 3.0 meters\nC. 3.5 meters\nD. 4.0 meters",
+      "correct_answer": "B",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 23,
+      "question": "A cylindrical tank with a radius of 3 meters is filled with water to a height of 5 meters. A conical object with a base radius of 1 meter and a height of 3 meters is submerged in the tank. Calculate the new water height in the tank after the object is fully submerged. Assume no water spills out and use \u03c0 \u2248 3.14 for calculations.\n\nA. 5.4 meters\nB. 5.1 meters\nC. 5.0 meters\nD. 5.2 meters",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 24,
+      "question": "A cylindrical tank with a radius of 4 meters and a height of 10 meters is filled with water. The tank is then tilted at an angle of 30 degrees from the horizontal. What is the height of the water level from the bottom of the tank when it is tilted, assuming the water maintains a horizontal surface?\n\nA. 8.66 meters\nB. 5.77 meters\nC. 3.46 meters\nD. 6.93 meters",
+      "correct_answer": "B",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 0
+    },
+    {
+      "question_number": 25,
+      "question": "A rectangle has a length that is twice its width. If the perimeter of the rectangle is 48 units, what is the area of the rectangle in square units?\n\nA. 128\nB. 144\nC. 192\nD. 96",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 26,
+      "question": "A cylindrical tank with a radius of 3 meters and a height of 5 meters is filled with water. A solid spherical object with a radius of 1 meter is completely submerged in the water. Given that the density of water is 1000 kg/m\u00b3 and the density of the spherical object is 3000 kg/m\u00b3, what will be the change in water level in the tank after the sphere is submerged? Assume no water overflows and use \u03c0 \u2248 3.14 for calculations.\n\nA. 0.25 m\nB. 0.30 m\nC. 0.15 m\nD. 0.20 m",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 27,
+      "question": "A cylindrical tank with a radius of 3 meters and a height of 10 meters is filled with water to a height of 6 meters. The tank has a small hole at its bottom, which allows water to leak out at a rate proportional to the square root of the height of the water remaining in the tank. If the proportionality constant is 0.2, how long will it take for the water level to drop from 6 meters to 3 meters? Assume the flow out of the hole follows Torricelli's Law.\n\nA. 18.5 minutes\nB. 23.1 minutes\nC. 30.4 minutes\nD. 15.2 minutes",
+      "correct_answer": "B",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 28,
+      "question": "A company produces two types of widgets: Type X and Type Y. The production cost for Type X is $5 per unit, and for Type Y, it is $8 per unit. The company has a budget of $600 for production. The revenue generated from selling each Type X widget is $12, while the revenue from each Type Y widget is $15. If the company wants to maximize its profit while producing at least 10 units of Type X and 5 units of Type Y, which of the following combinations of units produced will yield the highest profit?\n\nA. 10 units of Type X and 30 units of Type Y\nB. 15 units of Type X and 25 units of Type Y\nC. 20 units of Type X and 10 units of Type Y\nD. 18 units of Type X and 12 units of Type Y",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 29,
+      "question": "A cylindrical tank with a radius of 3 meters and a height of 5 meters is filled with water. The tank is then emptied through a pipe that has a diameter of 0.1 meters. If the flow rate of the water through the pipe is 0.5 cubic meters per hour, how long will it take to completely empty the tank?\n\nA. 15 hours\nB. 20 hours\nC. 25 hours\nD. 30 hours",
+      "correct_answer": "B",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 0
+    },
+    {
+      "question_number": 30,
+      "question": "A cylindrical tank with a radius of 3 meters is filled with water to a height of 5 meters. A conical funnel with a diameter of 6 meters and a height of 4 meters is then submerged in the tank, with its vertex pointing downward. If the funnel is completely submerged and filled with water, how much water will overflow from the tank once the funnel is at capacity? (Assume no water is lost during the process.)\n\nA. 27 liters\nB. 18 liters\nC. 36 liters\nD. 12 liters",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    },
+    {
+      "question_number": 31,
+      "question": "Consider the function \\( f(x) = 3x^3 - 6x^2 + 2x - 5 \\). Determine the value of \\( x \\) at which the function achieves its local maximum.\n\nA. \\( x = 1 \\)\nB. \\( x = 2 \\)\nC. \\( x = \\frac{1}{3} \\)\nD. \\( x = -1 \\)",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 32,
+      "question": "Consider the function \\( f(x) = 2x^3 - 6x^2 + 4x - 12 \\). Determine the value of \\( k \\) such that the equation \\( f(x) = k \\) has exactly three distinct real roots.\n\nA. \\( k = -8 \\)\nB. \\( k = 0 \\)\nC. \\( k = -12 \\)\nD. \\( k = -4 \\)",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 33,
+      "question": "Consider the function \\( f(x) = 3x^3 - 12x^2 + 9x + 5 \\). Determine the value of \\( x \\) at which the function has a local maximum, and identify that maximum value.\n\nA. \\( x = 1 \\), maximum value \\( f(1) = 5 \\)\nB. \\( x = 2 \\), maximum value \\( f(2) = 9 \\)\nC. \\( x = 3 \\), maximum value \\( f(3) = 26 \\)\nD. \\( x = 0 \\), maximum value \\( f(0) = 5 \\)",
+      "correct_answer": "B",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 34,
+      "question": "If \\( f(x) = 3x^3 - 5x^2 + 2x - 7 \\) and \\( g(x) = 2x - 1 \\), what is the value of \\( f(g(2)) \\)?\n\nA. 33\nB. 41\nC. 37\nD. 29",
+      "correct_answer": "D",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 35,
+      "question": "Consider the function \\( f(x) = x^3 - 6x^2 + 9x + 15 \\). Determine the x-coordinates of the local extrema by applying the first derivative test. Which of the following statements about the local extrema is true?\n\nA. The function has a local maximum at \\( x = 3 \\) and a local minimum at \\( x = 1 \\).\nB. The function has no local extrema as it is strictly increasing for all \\( x \\).\nC. The function has a local minimum at \\( x = 3 \\) and a local maximum at \\( x = 1 \\).\nD. The function has both a local maximum and a local minimum at \\( x = 2 \\).",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 36,
+      "question": "A function \\( f(x) \\) is defined as \\( f(x) = ax^3 + bx^2 + cx + d \\), where \\( a, b, c, d \\) are real constants. It is given that \\( f(1) = 0 \\), \\( f(2) = 0 \\), and the derivative \\( f'(x) \\) has a local maximum at \\( x = 1.5 \\). If \\( b \\) is set to 3 and \\( d \\) is set to -6, which of the following statements about the function \\( f(x) \\) must be true?\n\nA. \\( a \\) must be positive for \\( f(x) \\) to have a local maximum at \\( x = 1.5 \\).\nB. The value of \\( c \\) can be determined uniquely by the conditions given.\nC. The function \\( f(x) \\) has exactly three real roots.\nD. \\( f(x) \\) has a vertical asymptote at \\( x = 2 \\).",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 37,
+      "question": "Consider the function \\( f(x) = 2x^3 - 3x^2 + 4x - 5 \\). To find the critical points where the function has local extrema, which of the following steps is necessary to perform first, and what is the value of \\( x \\) at the first critical point?\n\nA. Set the first derivative \\( f'(x) = 6x^2 - 6x + 4 \\) equal to zero and solve for \\( x \\); the first critical point occurs at \\( x = 1 \\).\nB. Calculate the second derivative \\( f''(x) = 12x - 6 \\); the first critical point occurs when \\( f''(x) = 0 \\).\nC. Determine the first derivative \\( f'(x) = 6x^2 - 6x + 4 \\) and find the zeros of this equation; the first critical point is at \\( x = -\\frac{1}{3} \\).\nD. Evaluate \\( f(x) \\) at several points to find the maximum and minimum values; the first critical point found is at \\( x = 0 \\).",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 38,
+      "question": "Consider the quadratic equation \\( ax^2 + bx + c = 0 \\) where \\( a, b, c \\) are real numbers. If the roots of the equation are \\( r_1 \\) and \\( r_2 \\), which satisfy the condition \\( r_1 + r_2 = -\\frac{b}{a} \\) and \\( r_1 r_2 = \\frac{c}{a} \\), determine the value of \\( k \\) for which the equation \\( ax^2 + bx + c = k \\) has exactly one real solution.\n\nA. \\( k = \\frac{b^2 - 4ac}{4a} \\)\nB. \\( k = \\frac{b^2 - 4ac}{a} \\)\nC. \\( k = \\frac{b^2 - 4ac}{-4a} \\)\nD. \\( k = \\frac{4ac - b^2}{4a} \\)",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 39,
+      "question": "Consider the function \\( f(x) = ax^2 + bx + c \\), where the roots of the equation \\( f(x) = 0 \\) are given as \\( r_1 \\) and \\( r_2 \\). If the sum of the roots \\( r_1 + r_2 = -\\frac{b}{a} \\) and the product of the roots \\( r_1 r_2 = \\frac{c}{a} \\) are known to be \\( 8 \\) and \\( 15 \\) respectively, which of the following sets of values for \\( a \\), \\( b \\), and \\( c \\) satisfies both conditions?\n\nA. \\( a = 1, b = -8, c = 15 \\)\nB. \\( a = 2, b = -16, c = 30 \\)\nC. \\( a = 3, b = -24, c = 45 \\)\nD. \\( a = 4, b = -32, c = 60 \\)",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 40,
+      "question": "If \\( f(x) = 2x^3 - 5x^2 + ax + b \\) is a polynomial function where the derivative \\( f'(x) \\) has a double root at \\( x = 1 \\), what is the value of \\( a + b \\) given that \\( f(1) = 4 \\)?\n\nA. 5\nB. 6\nC. 7\nD. 8",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 41,
+      "question": "A factory produces widgets and uses a specific ratio of raw materials: for every 5 kilograms of raw material A, 3 kilograms of raw material B, and 2 kilograms of raw material C, the factory can produce 10 widgets. If the factory has 100 kilograms of raw material A, 60 kilograms of raw material B, and 40 kilograms of raw material C, what is the maximum number of widgets the factory can produce before running out of any single raw material?\n\nA. 30\nB. 50\nC. 40\nD. 25",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 42,
+      "question": "A company produces two products, X and Y. The total cost (C) of producing X units of product X and Y units of product Y is given by the function C(X, Y) = 5X\u00b2 + 3Y\u00b2 + 4XY. The company plans to produce a total of 80 units of both products combined, such that X + Y = 80. What is the minimum total cost for producing these 80 units?\n\nA. $8,000\nB. $7,200\nC. $6,400\nD. $5,600",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 43,
+      "question": "A company produces two products, A and B. Product A sells for $50 and has a variable cost of $30 per unit, while Product B sells for $80 with a variable cost of $50 per unit. The fixed costs for the company are $20,000. If the company wants to achieve a target profit of $10,000, how many units of each product need to be sold, assuming a sales mix of 3:2 (A:B)?\n\nA. 600 units of A and 400 units of B\nB. 800 units of A and 533 units of B\nC. 750 units of A and 500 units of B\nD. 900 units of A and 600 units of B",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 44,
+      "question": "A company produces two products, P and Q. The cost to produce one unit of product P is $10, while the cost to produce one unit of product Q is $15. The company sells product P for $25 and product Q for $35. In a given month, the company produced 200 units of product P and 150 units of product Q. If the company had to pay a fixed overhead cost of $2,000 that month, what was the total profit for that month?\n\nA. $5,500\nB. $6,000\nC. $6,500\nD. $7,000",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 45,
+      "question": "A company produces two models of smartwatches: Model X and Model Y. The cost to produce Model X is $50 per unit, and the cost to produce Model Y is $70 per unit. If the company produced 400 units of Model X and 600 units of Model Y in one month, and the total revenue generated from the sales of both models was $90,000, what was the average selling price per unit for Model Y, given that the selling price for Model X was $120 per unit?\n\nA. $110\nB. $130\nC. $150\nD. $170",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 46,
+      "question": "A company produces two products, X and Y. The total cost (C) of producing these products is represented by the equation C = 150 + 20X + 30Y, where X is the number of product X units produced and Y is the number of product Y units produced. The selling price per unit for product X is $50, and for product Y, it is $70. If the company aims to achieve a profit of at least $1,000, what is the minimum combined production of products X and Y (X + Y) required?\n\nA. 45 units\nB. 40 units\nC. 50 units\nD. 30 units",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 47,
+      "question": "A company produces two types of gadgets: Type X and Type Y. The production cost of Type X is $15 per unit, and the production cost of Type Y is $20 per unit. If the company has a budget of $10,000 and decides to produce twice as many Type X gadgets as Type Y gadgets, how many units of Type Y can the company produce?\n\nA. 200\nB. 250\nC. 300\nD. 400",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 48,
+      "question": "A factory produces two types of widgets, Type X and Type Y. Production costs for Type X are $5 per unit, while Type Y costs $8 per unit. The factory has a fixed budget of $2000 for production. If the factory must produce at least 100 units of Type X and no more than 150 units of Type Y, what is the maximum number of Type X and Type Y widgets that can be produced within the budget, while satisfying these constraints?\n\nA. 100 Type X and 125 Type Y\nB. 150 Type X and 25 Type Y\nC. 200 Type X and 0 Type Y\nD. 125 Type X and 100 Type Y",
+      "correct_answer": "A",
+      "model_raw_output": "D",
+      "parsed_answer": "D",
+      "success": 0
+    },
+    {
+      "question_number": 49,
+      "question": "A company produces two products, X and Y. The production cost per unit of product X is $30, and for product Y, it is $50. The company sells product X for $75 and product Y for $120. In order to optimize profits, the company plans to produce a combination of both products such that the total production cost does not exceed $15,000. If the company wants to maximize its revenue while producing at least 100 units of product X and at least 80 units of product Y, what is the maximum revenue it can achieve?\n\nA. $17,500\nB. $19,600\nC. $22,000\nD. $21,200",
+      "correct_answer": "C",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 50,
+      "question": "A company produces two products, A and B. Product A sells for $50 each, while Product B sells for $70 each. The production cost for product A is $30 and for product B is $40. The company has a fixed cost of $2000 per month. If the company aims to achieve a total profit of $5000 in a month, how many units of each product must it sell if it sells twice as many units of product A as product B?\n\nA. 100 units of A and 50 units of B\nB. 80 units of A and 40 units of B\nC. 120 units of A and 60 units of B\nD. 90 units of A and 45 units of B",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 51,
+      "question": "In a three-phase electrical system, the line voltage is measured at 400 V, while the phase voltage is 230 V. If the load connected to the system is balanced and purely resistive with a total power consumption of 10 kW, what is the total current flowing through each phase?\n\nA. 25 A\nB. 15 A\nC. 20 A\nD. 30 A",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 52,
+      "question": "In a three-phase electrical system, the power factor is an important aspect that affects both system efficiency and load management. Consider a balanced three-phase load with a total real power of 30 kW and a total apparent power of 40 kVA. If the system is designed to operate at a specific power factor, which of the following values represents the power factor of this system, and what implications does this have for the efficiency of the circuit?\n\nA. 0.75, indicating that only 75% of the apparent power is effectively used for work, leading to potential losses in transmission lines.\nB. 0.85, suggesting that the load is relatively efficient, but still allowing for some reactive power that might cause voltage drop across the system.\nC. 0.6, meaning that a considerable portion of the apparent power is reactive, which could lead to increased heating in conductors and transformers.\nD. 1.0, which would indicate ideal operating conditions with no reactive power, maximizing efficiency and minimizing losses.",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 53,
+      "question": "In a series RLC circuit, the resistance (R) is 10 ohms, the inductance (L) is 0.1 henries, and the capacitance (C) is 100 microfarads. At resonance frequency, what is the impedance of the circuit, and what is the resulting phase angle between the total voltage and the current?\n\nA. 10 ohms, 0 degrees\nB. 0 ohms, 90 degrees\nC. 10 ohms, -90 degrees\nD. 10 ohms, 180 degrees",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 54,
+      "question": "In a three-phase electrical system, a balanced load is connected across a star-connected transformer with a line voltage of 400 V. If the phase resistance of each load is 10 \u03a9 and the transformer has an efficiency of 90%, what is the total active power delivered to the load in kilowatts?\n\nA. 15 kW\nB. 20 kW\nC. 30 kW\nD. 18 kW",
+      "correct_answer": "B",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 55,
+      "question": "In a three-phase electrical system, an engineer is tasked with analyzing the power factor and determining the necessary corrective capacitance to improve efficiency. The system currently operates with a lagging power factor of 0.7 at a load of 100 kW. If the system voltage is 400 V, what is the required capacitance in microfarads to improve the power factor to 0.95?\n\nA. 23.8 \u00b5F\nB. 35.6 \u00b5F\nC. 46.8 \u00b5F\nD. 17.4 \u00b5F",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 56,
+      "question": "In a series RLC circuit with a resistance of 10 ohms, an inductance of 0.1 H, and a capacitance of 100 \u00b5F, calculate the resonant frequency. Which of the following statements is correct regarding the behavior of the circuit at this frequency?\n\nA. The impedance of the circuit is minimized, resulting in maximum current flow through the resistor.\nB. The phase angle between the voltage and current is zero, meaning the circuit behaves purely resistively.\nC. At resonance, the reactive power consumed by the inductor equals the reactive power consumed by the capacitor.\nD. The total power factor of the circuit becomes unity, indicating no reactive power in the circuit.",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    },
+    {
+      "question_number": 57,
+      "question": "In a series RLC circuit with a resistance of 4 ohms (R), an inductance of 2 henries (L), and a capacitance of 10 microfarads (C), what is the resonance frequency (in radians per second) of the circuit?\n\nA. 5000\nB. 250\nC. 1000\nD. 2000",
+      "correct_answer": "B",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 0
+    },
+    {
+      "question_number": 58,
+      "question": "A three-phase induction motor operates at a power factor of 0.8 lagging under full load. If the supply voltage is 400V and the motor's full-load current is 10A, calculate the active power consumed by the motor. Which of the following represents the correct active power in watts?\n\nA. 3200 W\nB. 4000 W\nC. 2800 W\nD. 3600 W",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 59,
+      "question": "In a series RLC circuit, the resonance frequency is defined as the frequency at which the reactive power of the inductor equals that of the capacitor. If an inductor with an inductance of 10 mH and a capacitor with a capacitance of 100 nF are connected in series with a resistor of 50 \u03a9, what is the impedance of the circuit at resonance frequency?\n\nA. 50 \u03a9\nB. 70.7 \u03a9\nC. 100 \u03a9\nD. 0 \u03a9",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 60,
+      "question": "A three-phase induction motor is connected to a supply with a line voltage of 400V and a frequency of 50Hz. The motor has a rated power of 15kW with an efficiency of 90% and a power factor of 0.8. If the motor operates at full load, what is the approximate full-load line current drawn by the motor?\n\nA. 25.2 A\nB. 32.5 A\nC. 18.4 A\nD. 22.9 A",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 61,
+      "question": "In a study examining the impact of socioeconomic status (SES) on academic performance, researchers found that while low SES students generally scored lower than their high SES counterparts, a significant portion of low SES students outperformed several average SES students. Considering the interplay of external variables such as parental education, access to resources, and school funding, which of the following conclusions can be drawn?\n\nA. The direct correlation between SES and academic performance is definitive, indicating that low SES students will always underperform compared to high SES students.\nB. The presence of high-performing low SES students suggests that academic ability is independent of SES, thus negating the influence of external factors on learning outcomes.\nC. While SES is a significant factor in academic performance, individual student resilience and resourcefulness can lead to outcomes that defy general trends, highlighting the complexity of educational achievement.\nD. Academic performance is solely determined by internal factors such as intelligence and motivation, making SES an irrelevant factor in evaluating student success.",
+      "correct_answer": "C",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 1
+    },
+    {
+      "question_number": 62,
+      "question": "In the context of climate change models, the feedback mechanisms associated with the carbon cycle are critical for predicting future atmospheric conditions. Which of the following statements best captures the complexity of these feedbacks and their potential implications for climate modeling?\n\nA. Increased atmospheric carbon dioxide primarily enhances plant growth, which in turn reduces atmospheric carbon levels, thus negating the effects of climate change.\nB. The release of methane from permafrost as a result of rising temperatures creates a positive feedback loop that accelerates global warming, complicating the accuracy of climate predictions.\nC. Ocean acidification due to elevated CO2 levels significantly enhances the ability of marine organisms to sequester carbon, leading to a net decrease in atmospheric carbon concentration.\nD. The formation of cloud cover as a result of increased evaporation serves as a negative feedback mechanism, effectively stabilizing global temperatures despite rising greenhouse gas emissions.",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 63,
+      "question": "In the context of logical fallacies, a company claims that their product is superior because it has been endorsed by a celebrity, suggesting that the popularity of the celebrity inherently validates the quality of the product. This reasoning exemplifies which of the following fallacies?\n\nA. Ad Hominem Fallacy\nB. Appeal to Authority Fallacy\nC. False Dichotomy Fallacy\nD. Slippery Slope Fallacy",
+      "correct_answer": "A",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 0
+    },
+    {
+      "question_number": 64,
+      "question": "In a recent study exploring the relationship between socioeconomic status (SES) and educational attainment, researchers utilized a mixed-methods approach, combining quantitative data analysis with qualitative interviews. The study found that while higher SES is statistically linked to greater educational attainment, the qualitative interviews revealed nuanced barriers faced by individuals from lower SES backgrounds that were not captured by quantitative measures alone. Which of the following conclusions can be drawn about the validity of the study's findings?\n\nA. The study's mixed-methods approach enhances the validity of its conclusions by providing a more comprehensive understanding of the complex relationship between SES and educational attainment.\nB. The statistical correlation between SES and educational attainment negates the need for qualitative interviews, rendering the qualitative data irrelevant to the findings.\nC. The presence of qualitative interviews in the study suggests that quantitative measures alone are insufficient for understanding the educational experiences of low SES individuals, potentially undermining the overall validity of the quantitative results.\nD. The study's findings indicate that all individuals from low SES backgrounds face the same barriers to educational attainment, thus generalizing their experiences and reducing the complexity of the data.",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 65,
+      "question": "In the study of cognitive biases, the concept of \"confirmation bias\" is often discussed in relation to how individuals seek information that supports their preexisting beliefs. In research involving political ideologies, a team of psychologists conducted a study where participants were presented with a series of articles that either supported or contradicted their political views. After reading, participants were asked to rate the credibility of each article. Which of the following conclusions can be drawn from this experiment, assuming the results aligned with typical findings in cognitive psychology?\n\nA. Participants demonstrated confirmation bias by rating supportive articles as more credible, indicating a lack of critical evaluation of information.\nB. The study's findings support the notion that individuals inherently possess an unbiased approach to information, regardless of political ideology.\nC. Participants' ratings of article credibility were influenced by their political affiliation, but this effect was mitigated when articles contained empirical data.\nD. The results indicate that individuals are equally likely to accept or reject information based solely on its emotional appeal, independent of their beliefs.",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 66,
+      "question": "In a recent study examining the relationship between socioeconomic status (SES) and academic achievement, researchers found that while high SES was positively correlated with academic performance, the effect size was significantly moderated by parental involvement and access to educational resources. Given these findings, which of the following conclusions can be drawn about the relationship between SES and academic achievement?\n\nA. Higher SES always leads to better academic performance regardless of parental involvement or educational resources.\nB. Parental involvement and educational resources can mitigate the negative effects of low SES on academic achievement, indicating that SES alone is not a sufficient predictor of performance.\nC. The relationship between SES and academic achievement is primarily influenced by innate intelligence, making external factors like parental involvement irrelevant.\nD. The presence of educational resources is the sole factor determining academic achievement, regardless of parental involvement or SES.",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    },
+    {
+      "question_number": 67,
+      "question": "In the context of ethical philosophy, consider the principle of utilitarianism, which posits that actions are right if they promote the greatest happiness for the greatest number. A recent critique argues that this perspective fails to adequately address issues of justice and individual rights. Which of the following statements most accurately reflects the implications of this critique while also considering a potential response from a utilitarian perspective?\n\nA. The critique emphasizes that utilitarianism can justify sacrificing the well-being of a minority for the benefit of the majority, thus neglecting individual rights, a concern that utilitarians could respond to by advocating for a rule-utilitarian approach that incorporates justice.\nB. While the critique highlights the shortcomings of utilitarianism in safeguarding minority rights, it fails to recognize that utilitarianism inherently values individual happiness equally, which would lead to consistent protection of all rights.\nC. The critique suggests that utilitarianism is fundamentally flawed because it relies on subjective measures of happiness, a point that utilitarians can counter by pointing to objective metrics developed by social scientists to quantify well-being.\nD. The critique asserts that utilitarianism ignores moral intuitions about fairness, but it can be countered by the argument that moral intuitions are often influenced by biases, making them unreliable compared to a quantifiable approach to happiness.",
+      "correct_answer": "A",
+      "model_raw_output": "A",
+      "parsed_answer": "A",
+      "success": 1
+    },
+    {
+      "question_number": 68,
+      "question": "In evaluating the efficacy of renewable energy sources versus fossil fuels, which of the following statements accurately reflects a key consideration in long-term sustainability, taking into account both environmental impact and economic viability?\n\nA. The initial high capital costs of renewable energy sources like solar and wind energy make them less economically viable than fossil fuels, despite their lower operational costs over time.\nB. Renewable energy sources contribute significantly to greenhouse gas emissions during their production and installation phases, making them comparable in environmental impact to traditional fossil fuels.\nC. The intermittent nature of renewable energy sources such as wind and solar requires substantial investment in energy storage technologies, which can offset their environmental benefits and increase overall costs.\nD. Fossil fuels, while currently more efficient in energy output, are unsustainable in the long run due to depletion and regulatory pressures aimed at reducing carbon emissions, unlike renewable sources which are inherently sustainable.",
+      "correct_answer": "D",
+      "model_raw_output": "D",
+      "parsed_answer": "D",
+      "success": 1
+    },
+    {
+      "question_number": 69,
+      "question": "In evaluating the implications of the Turing Test on artificial intelligence, consider the following statements: 1. The Turing Test primarily assesses a machine's ability to mimic human conversational behavior rather than its understanding or consciousness. 2. A significant criticism of the Turing Test is that it does not account for the qualitative differences between human thought processes and computational algorithms. 3. The Turing Test has been universally accepted as a definitive measure of machine intelligence since its introduction in 1950. 4. Alternative assessments of AI, such as the Chinese Room argument, provide a broader framework for understanding the limitations of the Turing Test. Which of the above statements is accurate regarding the Turing Test and its limitations?\n\nA. Statement 1 and 3 are accurate.\nB. Only Statement 2 is accurate.\nC. Statements 1, 2, and 4 are accurate.\nD. All statements are accurate.",
+      "correct_answer": "A",
+      "model_raw_output": "C",
+      "parsed_answer": "C",
+      "success": 0
+    },
+    {
+      "question_number": 70,
+      "question": "In the context of recent advancements in artificial intelligence ethics, consider the implications of deploying AI systems that utilize predictive algorithms for decision-making in sensitive areas such as law enforcement and healthcare. Which of the following statements presents the most valid concern regarding the use of such AI systems?\n\nA. Predictive algorithms can improve efficiency in law enforcement and healthcare by decreasing human error in data analysis.\nB. The algorithms may inadvertently perpetuate biases present in the training data, leading to ethical dilemmas and systemic discrimination.\nC. AI systems will ultimately replace human judgment entirely, negating the need for any oversight in decision-making processes.\nD. The transparency of AI algorithms guarantees that all stakeholders will understand the decision-making process, eliminating issues of trust and accountability.",
+      "correct_answer": "B",
+      "model_raw_output": "B",
+      "parsed_answer": "B",
+      "success": 1
+    }
+  ]
+}
