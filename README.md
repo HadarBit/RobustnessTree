@@ -29,19 +29,16 @@ It is designed to work alongside the **EvalTree** framework, replacing accuracy-
 - **`EvalTree/`**  
   The original **EvalTree** repository (unmodified baseline).
 
+- **`Question Generation/`**  
+Scripts for generating and evaluating **new questions** based on the generated weakness profile.
+
 - **`Replace Accuracy For DOVE Ranking/`**  
   Modified EvalTree trees where **accuracy scores** are replaced with **DOVE robustness scores**.
-
-- **`internal_files/`**  
-  Internal scripts and data used for generating plots.
 
 - **`plots/`**  
   Generated visualizations illustrating the results.
 
 - **`data/`**  
   Contains the **trees** and **tables** used in analysis, including input data for processing and evaluation.
-
-- **`Question Generation/`**  
-Scripts for generating and evaluating **new questions** based on the generated weakness profile.
 
 ---

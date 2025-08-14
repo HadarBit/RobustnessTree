@@ -280,8 +280,8 @@ def create_weakness_comparison_plot():
     
     pie_data = [len(both_weak), len(dove_only), len(ranking_only)]
     pie_labels = [f'Both Agree\n({len(both_weak)})', 
-                 f'Dove Only\n({len(dove_only)})', 
-                 f'EvalTree Only\n({len(ranking_only)})']
+                 f'RobustTree Only\n({len(dove_only)})',
+                 f'BinaryScore EvalTree Only\n({len(ranking_only)})']
     
     wedges, texts, autotexts = ax2.pie(pie_data, labels=pie_labels, colors=colors, 
                                       autopct='%1.1f%%', startangle=90)
