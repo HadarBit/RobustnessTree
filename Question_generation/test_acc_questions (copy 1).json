@@ -1,0 +1,282 @@
+[
+  {
+    "question": "A cylindrical tank has a height twice its radius. If the tank is filled with water to a height of 10 meters, what is the volume of water in the tank, expressed in cubic meters? (Use \u03c0 \u2248 3.14)\n\nA. 157.08\nB. 314.16\nC. 471.24\nD. 628.32",
+    "answer": "B"
+  },
+  {
+    "question": "A cylindrical tank has a radius of 3 meters and a height of 5 meters. A cone with a radius of 3 meters and a height of 5 meters is inverted and placed inside the tank, resting on the bottom. If the tank is filled with water to a height of 4 meters, what is the volume of water in the tank that is not displaced by the cone?\n\nA. 27\u03c0 cubic meters\nB. 36\u03c0 cubic meters\nC. 45\u03c0 cubic meters\nD. 15\u03c0 cubic meters",
+    "answer": "B"
+  },
+  {
+    "question": "A cylindrical tank with a height of 10 meters and a radius of 3 meters is filled with water to a height of 5 meters. If the tank is to be emptied at a constant flow rate that results in the water level decreasing by 0.1 meters per minute, how long will it take to completely empty the tank?\n\nA. 30 minutes\nB. 50 minutes\nC. 60 minutes\nD. 100 minutes",
+    "answer": "C"
+  },
+  {
+    "question": "A cylindrical tank has a height of 10 meters and a radius of 4 meters. Water is being pumped into the tank at a rate of 2 cubic meters per minute. After how many minutes will the tank be filled to a height of 5 meters?\n\nA. 10 minutes\nB. 15 minutes\nC. 20 minutes\nD. 25 minutes",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangular prism has a volume of 960 cubic units. The length is twice the width, and the height is 5 units more than the width. What is the width of the prism?\n\nA. 8 units\nB. 10 units\nC. 12 units\nD. 15 units",
+    "answer": "A"
+  },
+  {
+    "question": "A cylindrical tank with a radius of 3 meters is filled with water to a height of 5 meters. If the tank is drained at a rate of 2 cubic meters per hour, how many hours will it take to drain the tank completely?\n\nA. 7.5 hours\nB. 10 hours\nC. 12 hours\nD. 15 hours",
+    "answer": "B"
+  },
+  {
+    "question": "A cylindrical tank has a height of 10 meters and a radius of 3 meters. It is filled with water to a height of 8 meters. If the tank is leaking water at a rate of 0.5 cubic meters per hour, how many hours will it take for the water level to drop to 5 meters?\n\nA. 6 hours\nB. 9 hours\nC. 12 hours\nD. 15 hours",
+    "answer": "B"
+  },
+  {
+    "question": "A cylindrical tank has a height of \\( h \\) meters and a radius of \\( r \\) meters. The tank is filled with water up to a height of \\( \\frac{h}{2} \\). If water is drained from the tank at a rate of \\( x \\) cubic meters per second, how long will it take to drain the tank completely? Assume no water is added during this process. Which of the following equations correctly represents the time \\( t \\) in seconds it will take to drain the tank?\n\nA. \\( t = \\frac{\\pi r^2 h}{x} \\)\nB. \\( t = \\frac{\\pi r^2 \\left(\\frac{h}{2}\\right)}{x} \\)\nC. \\( t = \\frac{2\\pi r^2 h}{x} \\)\nD. \\( t = \\frac{\\pi r^2 h}{2x} \\)",
+    "answer": "B"
+  },
+  {
+    "question": "A cylindrical tank with a radius of 3 meters and a height of 5 meters is filled with water. If the tank is drained such that the water level decreases at a constant rate of 0.1 meters per hour, how many hours will it take to completely drain the tank? Assume that the tank maintains its shape and that there is no water loss due to evaporation.\n\nA. 12 hours\nB. 15 hours\nC. 18 hours\nD. 24 hours",
+    "answer": "B"
+  },
+  {
+    "question": "A cylindrical tank has a radius of 3 meters and a height of 5 meters. If the tank is filled with water to a height of 4 meters, how many liters of water are in the tank? (Note: 1 cubic meter equals 1000 liters. Use \u03c0 \u2248 3.14 for calculations.)\n\nA. 28.26 liters\nB. 37.68 liters\nC. 33.48 liters\nD. 41.89 liters",
+    "answer": "C"
+  },
+  {
+    "question": "In a certain mathematical model, a function \\( f(x) \\) is defined as \\( f(x) = ax^2 + bx + c \\), where \\( a, b, \\) and \\( c \\) are constants. If \\( f(x) \\) has a maximum value at \\( x = 2 \\) and the value of \\( f(2) = 5 \\), which of the following statements must be true about the coefficients \\( a, b, \\) and \\( c \\)?\n\nA. \\( a < 0 \\) and \\( b = 4a \\)\nB. \\( a > 0 \\) and \\( c = 5 - 4a \\)\nC. \\( a < 0 \\) and the vertex of the parabola is at \\( (2, 5) \\)\nD. \\( a = 0 \\) and \\( b = 0 \\)",
+    "answer": "C"
+  },
+  {
+    "question": "In a certain logical framework, if the statement \"If P, then Q\" is true, which of the following statements must also be true based on classical logic principles?\n\nA. If Q is false, then P must be false.\nB. If P is true, then Q is also true.\nC. If P is false, then Q can be either true or false.\nD. If Q is true, then P must be true.",
+    "answer": "A"
+  },
+  {
+    "question": "In a group of 150 students, the ratio of boys to girls is 3:2. If 20% of the boys and 30% of the girls are part of the school's science club, how many students are not part of the science club?\n\nA. 90\nB. 100\nC. 80\nD. 70",
+    "answer": "B"
+  },
+  {
+    "question": "In a set of integers, let \\( S \\) be defined as the set of all integers \\( n \\) such that \\( n \\equiv 3 \\mod 5 \\) and \\( n \\equiv 4 \\mod 7 \\). Which of the following integers is NOT an element of set \\( S \\)?\n\nA. 24\nB. 19\nC. 34\nD. 9",
+    "answer": "B"
+  },
+  {
+    "question": "In a logical reasoning test, a statement is made: \"If all cats are mammals and some mammals are not dogs, then it follows that some cats are not dogs.\" Which of the following correctly evaluates the validity of this statement using categorical syllogism?\n\nA. The statement is valid; if a subset of a category is excluded from another category, the original subset must also exclude that second category.\nB. The statement is invalid; the inclusion of \"some mammals\" does not provide enough information to conclude anything about the relationship between cats and dogs.\nC. The statement is valid; it correctly utilizes the transitive property of categorical syllogism to infer relationships.\nD. The statement is invalid; it incorrectly assumes that \"some\" in categorical logic implies \"all\" within the premises.",
+    "answer": "B"
+  },
+  {
+    "question": "In a logical framework, consider the following premises: 1. All mammals are warm-blooded. 2. Some warm-blooded animals can fly. 3. No reptiles are capable of flight. Given these premises, which of the following conclusions can be logically drawn?\n\nA. All flying animals are mammals.\nB. Some mammals can fly.\nC. Some reptiles are warm-blooded.\nD. All warm-blooded animals are mammals.",
+    "answer": "B"
+  },
+  {
+    "question": "A set of numbers is defined as follows: each number in the set is the product of two consecutive integers. Given the set of numbers \\( S = \\{n(n+1) : n \\in \\mathbb{Z}, 1 \\leq n \\leq 10\\} \\), which of the following statements about the elements of set \\( S \\) is true?\n\nA. Every element of \\( S \\) is a prime number.\nB. The sum of all elements in \\( S \\) is an odd number.\nC. There exists an element in \\( S \\) that is a perfect square.\nD. The greatest common divisor of all elements in \\( S \\) is 1.",
+    "answer": "C"
+  },
+  {
+    "question": "In a certain mathematical puzzle, a sequence of numbers is defined recursively as follows: \\( a_1 = 2 \\), \\( a_2 = 3 \\), and for \\( n \\geq 3 \\), \\( a_n = a_{n-1} + a_{n-2} + n \\). If we calculate the first five terms of this sequence, which of the following is the correct value of \\( a_5 \\)?\n\nA. 12\nB. 13\nC. 15\nD. 17",
+    "answer": "A"
+  },
+  {
+    "question": "In a certain logical framework, a proposition P is defined as \"If it is raining, then the ground is wet.\" Its contrapositive is \"If the ground is not wet, then it is not raining.\" Suppose we introduce a new proposition Q defined as \"It is cloudy.\" If we know that the presence of clouds does not influence the rain (i.e., rain can occur with or without clouds), what can we conclude about the relationship between P and Q when evaluating the validity of the argument: \"If it is cloudy, then the ground must be wet\"?\n\nA. The argument is valid because if it is cloudy, rain is guaranteed, ensuring the ground is wet.\nB. The argument is invalid since clouds do not necessarily cause rain, leaving the ground potentially dry.\nC. The argument is valid if we assume clouds always precede rain, making wet ground a necessary consequence.\nD. The argument is valid due to the logical structure of P, regardless of the influence of Q on the rain.",
+    "answer": "A"
+  },
+  {
+    "question": "In a certain city, the population increases by 10% annually. If the population at the beginning of the year is denoted by P, which of the following expressions represents the population at the end of the third year?\n\nA. P * (1.1)^3\nB. P * 1.3\nC. P * (1 + 0.1 * 3)\nD. P + 0.1P * 3",
+    "answer": "A"
+  },
+  {
+    "question": "A cylindrical tank has a radius of 3 meters and a height of 5 meters. Water is being pumped into the tank at a rate of 10 cubic meters per hour. At the same time, water is leaking out of the tank at a rate of 4 cubic meters per hour. How many hours will it take for the tank to be filled to 70% of its total volume?\n\nA. 4 hours\nB. 5 hours\nC. 6 hours\nD. 7 hours",
+    "answer": "B"
+  },
+  {
+    "question": "A rectangular garden is planned to be built with a length that is twice the width. The area of the garden is to be 200 square meters. After determining the dimensions, the gardener decides to increase the width by 1 meter and decrease the length by 2 meters for aesthetic purposes. What will be the new area of the garden after these adjustments?\n\nA. 198 square meters\nB. 196 square meters\nC. 194 square meters\nD. 200 square meters",
+    "answer": "A"
+  },
+  {
+    "question": "A cylindrical tank has a radius of 4 meters and a height of 6 meters. It is filled with water to a height of 2 meters. A rectangular prism is submerged in the tank, displacing 12 cubic meters of water. If the prism has a base area of 3 square meters, how high is the water in the tank after the prism is submerged?\n\nA. 3.5 meters\nB. 4.0 meters\nC. 5.0 meters\nD. 5.5 meters",
+    "answer": "B"
+  },
+  {
+    "question": "A right triangle has legs of lengths 7 and 24. A point is chosen randomly within the triangle. What is the probability that this point lies within the inscribed circle of the triangle?\n\nA. \\( \\frac{7}{25} \\)\nB. \\( \\frac{7\\pi}{25} \\)\nC. \\( \\frac{24\\pi}{25} \\)\nD. \\( \\frac{7\\pi}{50} \\)",
+    "answer": "A"
+  },
+  {
+    "question": "A cylindrical tank has a radius of 3 meters and is filled with water to a height of 5 meters. If water is being drained from the tank at a uniform rate of 0.5 cubic meters per hour, how many hours will it take to reduce the water level to 2 meters?\n\nA. 3 hours\nB. 4 hours\nC. 5 hours\nD. 6 hours",
+    "answer": "B"
+  },
+  {
+    "question": "A cylindrical tank has a radius of 3 meters and a height of 5 meters. If the tank is filled to a height of 4 meters with water, what is the volume of the water in the tank in cubic meters? (Use \u03c0 \u2248 3.14)\n\nA. 28.26\nB. 37.68\nC. 40.68\nD. 45.00",
+    "answer": "A"
+  },
+  {
+    "question": "A cylindrical tank with a radius of 5 meters and a height of 10 meters is filled with water. The tank has a conical section at the bottom with a radius of 5 meters and a height of 5 meters that extends into the water. If the tank is filled to a height of 7 meters, what is the volume of the water in the tank? (Use \u03c0 \u2248 3.14)\n\nA. 130.9 m\u00b3\nB. 117.5 m\u00b3\nC. 78.5 m\u00b3\nD. 157.1 m\u00b3",
+    "answer": "A"
+  },
+  {
+    "question": "A certain rectangle has a length that is twice its width. The area of the rectangle is equal to the area of a square whose side length is 6 cm. If the width of the rectangle is represented by \\( w \\), which of the following equations correctly represents the relationship between the width of the rectangle and the area of the square?\n\nA. \\( 2w^2 = 36 \\)\nB. \\( 2w^2 = 6 \\)\nC. \\( w^2 = 36 \\)\nD. \\( w^2 = 18 \\)",
+    "answer": "A"
+  },
+  {
+    "question": "A cylindrical tank has a radius of 3 meters and a height of 10 meters. It is filled with water to a height of 7 meters. A solid sphere with a radius of 1 meter is then submerged in the tank. What is the new height of the water in the tank after the sphere is submerged? (Assume that the sphere is fully submerged and ignore any water that may spill out.)\n\nA. 7.5 meters\nB. 8.0 meters\nC. 8.3 meters\nD. 8.5 meters",
+    "answer": "B"
+  },
+  {
+    "question": "A farmer has a rectangular field of dimensions 80 meters by 120 meters. He wants to create a path of uniform width around the entire field, such that the total area of the field plus the path is equal to 20% more than the area of the field itself. What is the width of the path?\n\nA. 2 meters\nB. 4 meters\nC. 5 meters\nD. 6 meters",
+    "answer": "B"
+  },
+  {
+    "question": "Consider a quadratic function defined by \\( f(x) = ax^2 + bx + c \\), where \\( a, b, c \\) are real numbers. If the vertex of the parabola represented by this function is at the point (2, -3) and it opens upwards, what is the value of \\( b \\) given that the function can be expressed in the standard form \\( f(x) = a(x - 2)^2 - 3 \\)?\n\nA. \\( 4a \\)\nB. \\( -4a \\)\nC. \\( -2a \\)\nD. \\( 2a \\)",
+    "answer": "B"
+  },
+  {
+    "question": "Let \\( f(x) = 2x^3 - 3x^2 + 4x - 1 \\). Determine the value of \\( x \\) for which the tangent line at this point is parallel to the line \\( y = 6x - 5 \\).\n\nA. \\( x = 1 \\)\nB. \\( x = 2 \\)\nC. \\( x = 0 \\)\nD. \\( x = -1 \\)",
+    "answer": "A"
+  },
+  {
+    "question": "Let \\( f(x) = 3x^3 - 6x^2 + 2x - 5 \\). Determine the critical points of the function and identify whether they correspond to local minima, local maxima, or neither. Which of the following statements about the function at its critical points is true?\n\nA. The function has a local maximum at \\( x = 1 \\) and a local minimum at \\( x = 0 \\).\nB. The function has one local minimum and one local maximum at its critical points.\nC. The function has two local maxima and no local minima at its critical points.\nD. The function has no critical points where local extrema occur.",
+    "answer": "A"
+  },
+  {
+    "question": "A polynomial \\( P(x) \\) is defined as \\( P(x) = 3x^4 - 8x^3 + 2x^2 + 5 \\). If \\( P(x) \\) is divided by \\( x - 2 \\), what is the remainder of that division?\n\nA. 9\nB. 5\nC. 11\nD. 23",
+    "answer": "A"
+  },
+  {
+    "question": "Consider the polynomial function \\( f(x) = 3x^4 - 12x^3 + 9x^2 + 4 \\). To find the local extrema of this function, you first need to determine its critical points. Which of the following statements is true regarding the critical points of \\( f(x) \\) and their nature?\n\nA. The function has a local maximum at \\( x = 1 \\) and a local minimum at \\( x = 2 \\).\nB. The only critical point occurs at \\( x = 2 \\) and it is a point of inflection.\nC. The function has no critical points since its derivative does not equal zero for any real \\( x \\).\nD. The function has a local minimum at \\( x = 1 \\) and a local maximum at \\( x = 2 \\).",
+    "answer": "A"
+  },
+  {
+    "question": "Let \\( f(x) = 2x^3 - 9x^2 + 12x - 1 \\). Determine the number of real roots of the equation \\( f(x) = 0 \\) using the Intermediate Value Theorem and Descartes' Rule of Signs.\n\nA. 1 real root\nB. 2 real roots\nC. 3 real roots\nD. 0 real roots",
+    "answer": "A"
+  },
+  {
+    "question": "Consider the function \\( f(x) = 2x^3 - 9x^2 + 12x \\). Determine the value of \\( x \\) at which the function achieves its local maximum, and identify the nature of the critical points.\n\nA. \\( x = 1 \\), local maximum\nB. \\( x = 3 \\), local minimum\nC. \\( x = 2 \\), local maximum\nD. \\( x = 0 \\), inflection point",
+    "answer": "C"
+  },
+  {
+    "question": "Consider the quadratic function \\( f(x) = ax^2 + bx + c \\) where \\( a, b, c \\in \\mathbb{R} \\) and \\( a \\neq 0 \\). If the function has roots at \\( x = r_1 \\) and \\( x = r_2 \\), which satisfy \\( r_1 + r_2 = -\\frac{b}{a} \\) and \\( r_1 r_2 = \\frac{c}{a} \\), what is the value of \\( f(-r_2) - f(-r_1) \\) expressed in terms of \\( a, b, c \\)?\n\nA. \\( -\\frac{b^2}{a} + 2c \\)\nB. \\( -\\frac{b^2}{a} - c \\)\nC. \\( -\\frac{b^2}{a} + c \\)\nD. \\( \\frac{b^2}{a} - 2c \\)",
+    "answer": "D"
+  },
+  {
+    "question": "Given the polynomial function \\( f(x) = 3x^4 - 8x^3 + 5x^2 - 2 \\), which of the following statements is true regarding the intervals where the function is increasing?\n\nA. The function is increasing on the interval \\( (-\\infty, -1) \\cup (1, 2) \\).\nB. The function is increasing on the interval \\( (-1, 1) \\cup (2, \\infty) \\).\nC. The function is increasing on the interval \\( (-\\infty, -2) \\cup (0, 1) \\).\nD. The function is increasing on the interval \\( (-\\infty, -1) \\cup (0, 2) \\).",
+    "answer": "B"
+  },
+  {
+    "question": "Let \\( f(x) = 2x^3 - 9x^2 + 12x - 3 \\). Determine the number of real roots of the equation \\( f(x) = 0 \\) using Descartes' Rule of Signs and the Intermediate Value Theorem.\n\nA. 1 real root\nB. 2 real roots\nC. 3 real roots\nD. 0 real roots",
+    "answer": "A"
+  },
+  {
+    "question": "A company produces two types of gadgets, X and Y. The production cost for gadget X is $50 per unit, and for gadget Y, it's $70 per unit. If the company produces a total of 500 gadgets, with twice as many gadgets of type Y as type X, what is the total production cost for all gadgets produced?\n\nA. $35,000\nB. $37,500\nC. $40,000\nD. $42,500",
+    "answer": "B"
+  },
+  {
+    "question": "A company produces two products, P and Q. The profit from selling one unit of product P is $50, and from product Q is $70. The company has a maximum production capacity of 200 units per day, with the constraint that the total number of units produced must be at least 100. Additionally, the production of product P cannot exceed 60% of the total production. If the company wishes to maximize its profit, how many units of product P should they produce?\n\nA. 80\nB. 100\nC. 120\nD. 60",
+    "answer": "D"
+  },
+  {
+    "question": "A company produces two products, X and Y. The total cost of producing X is given by the quadratic function C(X) = 3X\u00b2 - 12X + 30, and the total cost of producing Y is given by C(Y) = 2Y\u00b2 - 8Y + 20. If the company aims to maximize profit, which is defined as the difference between revenue and total cost for both products, and if the revenue generated from selling X is 5X and from selling Y is 6Y, how many units of product Y should the company produce if it decides to produce 4 units of product X, assuming that the profit from both products combined is maximized?\n\nA. 5\nB. 6\nC. 7\nD. 8",
+    "answer": "B"
+  },
+  {
+    "question": "A company produces two products, P and Q. Product P has a fixed cost of $4,000 and a variable cost of $20 per unit, while product Q has a fixed cost of $6,000 and a variable cost of $15 per unit. If the company sells product P for $50 per unit and product Q for $40 per unit, how many units of each product must the company sell to achieve a combined profit of $10,000?\n\nA. 300 units of P and 200 units of Q\nB. 400 units of P and 100 units of Q\nC. 500 units of P and 50 units of Q\nD. 200 units of P and 300 units of Q",
+    "answer": "B"
+  },
+  {
+    "question": "A company produces two types of products, A and B. Product A has a fixed cost of $20,000 and a variable cost of $50 per unit. Product B has a fixed cost of $15,000 and a variable cost of $70 per unit. If the company aims to achieve a total profit of $30,000, how many units of each product must be sold if they plan to sell 200 units of product A and x units of product B? Assume the selling price for product A is $100 and for product B is $120. What is the value of x?\n\nA. 100\nB. 150\nC. 200\nD. 250",
+    "answer": "B"
+  },
+  {
+    "question": "A factory produces two types of widgets, A and B. Widget A requires 3 hours of labor and $50 in materials to produce one unit, while Widget B requires 5 hours of labor and $70 in materials. The factory has a total of 120 hours of labor available and a budget of $1,000 for materials. If the factory wants to maximize the number of widgets produced, how many of each type of widget should it produce to achieve this goal?\n\nA. 20 A and 10 B\nB. 15 A and 12 B\nC. 10 A and 15 B\nD. 25 A and 5 B",
+    "answer": "A"
+  },
+  {
+    "question": "A company produces two products, A and B. The total production cost for product A is given by the equation \\(C_A = 5x + 2\\) and for product B by \\(C_B = 3y + 4\\), where \\(x\\) is the number of units of product A produced and \\(y\\) is the number of units of product B produced. If the company aims to keep total costs below $200, what is the maximum number of units of product A that can be produced if it produces 20 units of product B?\n\nA. 30\nB. 25\nC. 35\nD. 20",
+    "answer": "A"
+  },
+  {
+    "question": "A company produces two products, X and Y. Product X sells for $50 and has a variable cost of $30, while Product Y sells for $80 and has a variable cost of $50. The fixed costs for the company are $10,000. If the company wants to achieve a target profit of $5,000, how many units of each product must be sold if the sales mix is 3:2 (Product X to Product Y)?\n\nA. 300 units of X and 200 units of Y\nB. 400 units of X and 267 units of Y\nC. 500 units of X and 333 units of Y\nD. 600 units of X and 400 units of Y",
+    "answer": "A"
+  },
+  {
+    "question": "A researcher conducts an experiment to determine the effect of three different fertilizers (F1, F2, F3) on plant growth. The growth of plants is measured in centimeters after 30 days. The results are as follows: - F1: 25 cm - F2: 30 cm - F3: 45 cm The researcher wants to estimate the percentage increase in growth for each fertilizer compared to a control group (which had an average growth of 20 cm). What is the average percentage increase in plant growth for all three fertilizers combined?\n\nA. 32.5%\nB. 40%\nC. 50%\nD. 62.5%",
+    "answer": "B"
+  },
+  {
+    "question": "A company produces three types of widgets: A, B, and C. The production costs per unit for widgets A, B, and C are $10, $15, and $20 respectively. The company sells widget A for $25, widget B for $35, and widget C for $45. In a month, the company produces 200 units of widget A, 150 units of widget B, and 100 units of widget C. If the company has fixed costs of $1,500 for the month, what is the total profit for the month?\n\nA. $3,500\nB. $4,000\nC. $4,500\nD. $5,000",
+    "answer": "B"
+  },
+  {
+    "question": "In a three-phase electrical system, the total power delivered can be calculated using the formula \\( P = \\sqrt{3} \\cdot V_{L} \\cdot I_{L} \\cdot \\cos(\\phi) \\), where \\( V_{L} \\) is the line voltage, \\( I_{L} \\) is the line current, and \\( \\phi \\) is the phase angle between the current and voltage. If the line voltage is 400 V, the line current is 50 A, and the load is purely inductive with a power factor of 0.5, what is the total power delivered to the load, and how does the phase angle relate to the power factor?\n\nA. 20,000 W; the phase angle is 60 degrees, indicating a purely resistive load.\nB. 34,640 W; the phase angle is 60 degrees, indicating a purely resistive load.\nC. 17,320 W; the phase angle is 60 degrees, indicating a purely inductive load.\nD. 34,640 W; the phase angle is 30 degrees, indicating a purely inductive load.",
+    "answer": "C"
+  },
+  {
+    "question": "In a series RLC circuit with a resistance of 10 ohms, an inductance of 0.5 henries, and a capacitance of 20 microfarads, what is the resonant frequency of the circuit, and how does it affect the overall impedance at resonance?\n\nA. 10 kHz, resulting in maximum impedance equal to the resistance value.\nB. 1 kHz, resulting in minimum impedance equal to the resistance value.\nC. 5 kHz, resulting in zero impedance at resonance.\nD. 2.25 kHz, resulting in maximum impedance equal to the resistance value.",
+    "answer": "D"
+  },
+  {
+    "question": "In a resonance circuit consisting of a resistor (R), an inductor (L), and a capacitor (C) connected in series, the impedance reaches its minimum value at resonance. If the circuit is driven by an AC source with a frequency slightly higher than the resonant frequency, which of the following statements accurately describes the behavior of the circuit with respect to voltage and current?\n\nA. The voltage across the inductor will be greater than the voltage across the capacitor, leading to a phase shift where the current leads the voltage.\nB. The overall circuit impedance will decrease, causing a decrease in the current flowing through the circuit.\nC. The voltage across the capacitor will exceed the supply voltage, resulting in a phase angle approaching 90 degrees where the current lags the voltage.\nD. The circuit will behave as a purely resistive circuit, with the voltage and current in phase, regardless of the frequency shift.",
+    "answer": "C"
+  },
+  {
+    "question": "In a series RLC circuit with a resistance \\( R = 10 \\, \\Omega \\), inductance \\( L = 0.1 \\, H \\), and capacitance \\( C = 100 \\, \\mu F \\), the circuit is driven by an alternating voltage source \\( V(t) = V_0 \\sin(\\omega t) \\) where the angular frequency \\( \\omega = 200 \\, rad/s \\). What is the total impedance \\( Z \\) of the circuit at this frequency, and how does it affect the phase difference \\( \\phi \\) between the voltage and the current?\n\nA. \\( Z = 20 \\, \\Omega \\), \\( \\phi = \\tan^{-1}(-\\frac{1}{3}) \\)\nB. \\( Z = 15 \\, \\Omega \\), \\( \\phi = \\tan^{-1}(-2) \\)\nC. \\( Z = 25 \\, \\Omega \\), \\( \\phi = \\tan^{-1}(2) \\)\nD. \\( Z = 30 \\, \\Omega \\), \\( \\phi = \\tan^{-1}(-1) \\)",
+    "answer": "A"
+  },
+  {
+    "question": "In a three-phase electrical system, each phase is connected to a balanced load of 10 k\u03a9. The system operates at a line voltage of 400 V. If the line current is measured to be 5 A, what is the total power delivered to the loads in kilowatts, and what is the power factor of the system?\n\nA. 10 kW, leading power factor of 0.8\nB. 12 kW, lagging power factor of 0.9\nC. 6.93 kW, unity power factor\nD. 8.66 kW, lagging power factor of 0.6",
+    "answer": "B"
+  },
+  {
+    "question": "A three-phase electrical system is supplying power to a balanced load with a power factor of 0.8 lagging. If the line voltage of the system is 400 V, what is the total real power delivered to the load in kilowatts?\n\nA. 69.28 kW\nB. 57.74 kW\nC. 80.00 kW\nD. 65.00 kW",
+    "answer": "A"
+  },
+  {
+    "question": "In a series RLC circuit with a resistance of 10 ohms, an inductance of 50 mH, and a capacitance of 20 \u00b5F, which of the following statements accurately describes the effect on the circuit's impedance when the frequency is increased beyond the resonant frequency?\n\nA. The impedance decreases because the inductive reactance dominates over capacitive reactance, leading to a lower total impedance.\nB. The impedance increases because both the inductive and capacitive reactances increase, but the inductive reactance increases at a faster rate, resulting in higher total impedance.\nC. The impedance remains constant as the frequency increases since the resonant frequency has already been surpassed and the circuit behaves purely resistively.\nD. The impedance first decreases until the resonant frequency is attained, after which it levels off and remains stable regardless of further increases in frequency.",
+    "answer": "B"
+  },
+  {
+    "question": "In a three-phase electrical system, the line voltage is measured to be 400 V. If the system is configured in a star (Y) connection and the load impedance per phase is represented as Z = 20 + j30 ohms, which of the following statements accurately describes the total power factor of the system?\n\nA. The total power factor is leading and equal to 0.6.\nB. The total power factor is lagging and equal to 0.75.\nC. The total power factor is unity and equal to 1.\nD. The total power factor is lagging and equal to 0.5.",
+    "answer": "A"
+  },
+  {
+    "question": "A three-phase induction motor with a star connection is operating at a slip of 4%. If the synchronous speed of the motor is 1500 RPM, what is the rotor speed of the motor? Additionally, if the motor is drawing a line current of 10 A with a power factor of 0.8, what is the approximate output power of the motor in watts, assuming negligible losses?\n\nA. 1200 W\nB. 1800 W\nC. 2000 W\nD. 2400 W",
+    "answer": "B"
+  },
+  {
+    "question": "In an RLC series circuit, the impedance is defined as the total opposition to alternating current and is a function of resistance (R), inductive reactance (XL), and capacitive reactance (XC). If the circuit is operating at its resonant frequency, which of the following statements is true regarding the phase relationship between the current and voltage in the circuit?\n\nA. The voltage across the inductor leads the current by 90 degrees, while the voltage across the capacitor lags the current by 90 degrees.\nB. The total impedance is minimized, and the current is in phase with the total voltage, resulting in a zero phase difference.\nC. The voltage across the resistor lags the current by 90 degrees, while the total voltage leads the current by an angle determined by the difference between XL and XC.\nD. The inductive reactance equals the capacitive reactance, but the current lags the total voltage by 90 degrees due to the resistive element.",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of cognitive psychology, which of the following statements most accurately describes the nature of confirmation bias and its implications for empirical research?\n\nA. Confirmation bias primarily affects the initial stages of hypothesis formation, leading researchers to develop theories that are inherently flawed from the start.\nB. Confirmation bias can lead researchers to selectively gather data that supports their preconceived notions, undermining the objectivity of the research process.\nC. Confirmation bias is a consequence of too much reliance on statistical significance, causing researchers to ignore relevant data that could contradict their findings.\nD. Confirmation bias is primarily a result of cognitive overload, where researchers become so overwhelmed with information that they fail to notice contradictory evidence.",
+    "answer": "B"
+  },
+  {
+    "question": "In evaluating the impact of social media on public discourse, researchers have identified various mechanisms through which online platforms shape political opinions. Which of the following statements most accurately captures a critical analysis of these mechanisms, considering both the amplification of certain viewpoints and the potential for creating echo chambers?\n\nA. The primary effect of social media is to equalize public discourse by providing a platform for diverse voices, thereby reducing the influence of traditional media biases.\nB. Social media algorithms tend to prioritize sensational content, which can lead to the amplification of extreme viewpoints, while simultaneously fostering echo chambers that limit exposure to opposing perspectives.\nC. Users of social media are inherently more critical of the information they consume, thus ensuring that the platform's influence on public discourse is minimal and largely constructive.\nD. The decentralized nature of social media allows for grassroots movements to thrive, ultimately enhancing the democratic process by challenging established power structures without significant drawbacks.",
+    "answer": "B"
+  },
+  {
+    "question": "In a study examining the effects of chronic stress on cognitive function, researchers found that participants exposed to prolonged stress exhibited a marked decline in working memory capacity. However, participants who engaged in regular mindfulness meditation displayed no significant decrease in working memory, suggesting a potential mitigating effect of mindfulness. Which of the following conclusions can be drawn from this study?\n\nA. Chronic stress universally deteriorates cognitive function in all individuals regardless of their coping mechanisms.\nB. Mindfulness meditation is proven to eliminate the negative effects of stress on cognitive function in all populations.\nC. The presence of mindfulness practices may buffer the effects of chronic stress on cognitive functions such as working memory, but further research is necessary to generalize these findings.\nD. The study indicates that cognitive decline due to stress is reversible through any form of relaxation technique, including mindfulness meditation.",
+    "answer": "C"
+  },
+  {
+    "question": "In the context of epistemology, which of the following statements best articulates the distinction between justified belief and knowledge, considering Gettier problems?\n\nA. A justified belief is always considered knowledge, provided it is derived from empirical evidence.\nB. Knowledge is defined as a belief that is true, justified, and cannot be challenged by any counterexamples.\nC. Justified belief may not constitute knowledge if there exists a situation where the justification is fortuitously true but not necessarily linked to the belief's truth.\nD. Knowledge requires not only justification and truth but also an emotional investment in the validity of the belief.",
+    "answer": "C"
+  },
+  {
+    "question": "In a recent study, researchers found that students who engaged in self-explanation while learning complex mathematical concepts demonstrated significantly higher retention and understanding than those who did not. However, the study also indicated that the effectiveness of self-explanation varied based on prior knowledge and cognitive load. Given this information, which of the following conclusions can be drawn regarding the use of self-explanation in educational settings?\n\nA. Self-explanation is universally beneficial for all students regardless of their prior knowledge.\nB. The effectiveness of self-explanation may diminish as cognitive load increases, particularly for students with lower prior knowledge.\nC. High cognitive load enhances the benefits of self-explanation, making it a superior learning strategy for advanced students.\nD. Self-explanation should be avoided in educational settings as it could lead to misconceptions among students.",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of assessing the reliability of scientific studies, which of the following statements best encapsulates the concept of \"external validity,\" particularly in regard to generalizability across different populations?\n\nA. External validity refers to the extent to which the findings of a study can be replicated under similar conditions with the same demographic and environmental parameters.\nB. External validity is the degree to which research results can be applied to contexts outside of the study's specific sample, allowing for broader generalizations to different populations or settings.\nC. External validity is primarily concerned with the internal consistency of measurements used within a study, ensuring that they accurately reflect the theoretical constructs intended to be measured.\nD. External validity emphasizes the importance of statistical significance in the results of a study, asserting that significant findings are generally applicable beyond the sample tested.",
+    "answer": "B"
+  },
+  {
+    "question": "In a recent study examining the impact of social media on adolescent mental health, researchers found that increased time spent on social platforms correlated with higher levels of anxiety and depression. However, they noted that certain types of interactions, such as supportive comments and sharing positive experiences, had a mitigating effect. Based on this information, which of the following conclusions can be considered the most valid?\n\nA. All social media interactions are harmful to adolescent mental health, regardless of their nature.\nB. Increased usage of social media is the sole factor contributing to rising anxiety and depression among adolescents.\nC. The quality of social media interactions plays a significant role in determining their impact on adolescent mental health.\nD. Adolescents who do not use social media are immune to anxiety and depression.",
+    "answer": "C"
+  },
+  {
+    "question": "In evaluating the long-term effects of climate change on global agricultural productivity, researchers often consider various interrelated factors, including temperature increases, precipitation variability, and soil nutrient depletion. If a study concludes that average global temperatures are projected to rise by 2 degrees Celsius over the next century, leading to a 10% decrease in crop yields but fails to account for the potential adaptive measures such as crop diversification and technological innovations, which of the following statements most accurately critiques the study\u2019s conclusions?\n\nA. The study is valid because it considers temperature changes as the primary driver of crop yield reductions.\nB. The study's conclusions are overly pessimistic because it ignores the possibility of enhanced crop resilience through genetic modifications.\nC. The study lacks validity as it does not incorporate socio-economic factors that could mitigate yield impacts through changes in farming practices.\nD. The study is logically sound but overlooks the potential for increased agricultural yields in some regions due to longer growing seasons.",
+    "answer": "B"
+  },
+  {
+    "question": "In the context of epistemology, consider the following four statements regarding the nature of knowledge and justified belief. Which of the following statements best exemplifies the distinction between knowledge and mere belief, highlighting the role of justification in validating knowledge claims?\n\nA. Knowledge is simply the accumulation of information that aligns with one's personal experiences, regardless of its source.\nB. A belief can be considered knowledge only if it is both true and held with absolute certainty, independent of external validation.\nC. Justified true belief encompasses information that is not only true but also supported by sound reasoning and evidence, distinguishing it from mere opinion.\nD. Knowledge is purely subjective and varies from person to person based on their individual experiences and interpretations of truth.",
+    "answer": "C"
+  },
+  {
+    "question": "In evaluating the ethical implications of artificial intelligence in decision-making, which of the following statements best captures the potential paradox of enhanced efficiency versus moral responsibility?\n\nA. The use of AI in decision-making primarily mitigates the risk of human error, thereby absolving individuals of moral responsibility in critical outcomes.\nB. While AI can increase efficiency in decision-making, it simultaneously raises concerns about accountability, as the delegation of ethical choices to machines can obscure the moral agency of human operators.\nC. The integration of AI systems ensures that decisions are made based on objective data, thus eliminating the emotional biases that often compromise human judgment.\nD. AI systems are designed to simulate human-like decision processes, which guarantees that they will inherently possess a sense of moral responsibility equal to that of their human counterparts.",
+    "answer": "B"
+  }
+]
